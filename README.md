@@ -25,11 +25,11 @@ The mock business situation that I created for my project: There's a newly creat
 - Reg Plots, R^2
 - Addressed colinearity issues
 - Feature Engineering
-### Determine Baseline Model 
+# Determine Baseline Model 
 - Tested log transform vs no transform
 - Determined if regularization would improve the model
 - Identified features with highest coefficient
-### Train - Validate - Test
+# Train - Validate - Test
 - Utilized cross validation
 
 # Findings
