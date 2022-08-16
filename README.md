@@ -15,21 +15,21 @@ The mock business situation that I created for my project: There's a newly creat
 - 1100 thriller titles, 16 predictor variables
 
 # Solution Path
-### Webscraping
+#### Webscraping
 - Scraped 1100 of the top grossing thriller titles, 16 predictor variables
-### Exploratory Data Analysis
+#### Exploratory Data Analysis
 - Ensure data correct and appears as expected
 - Data cleanup, address missing values, etc
-### Regression Viability
+#### Regression Viability
 - Correlation matrix (Determined features with most viability based on correlation to target)
 - Reg Plots, R^2
 - Addressed colinearity issues
 - Feature Engineering
-# Determine Baseline Model 
+#### Determine Baseline Model 
 - Tested log transform vs no transform
 - Determined if regularization would improve the model
 - Identified features with highest coefficient
-# Train - Validate - Test
+#### Train - Validate - Test
 - Utilized cross validation
 
 # Findings
