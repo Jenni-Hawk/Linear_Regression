@@ -21,7 +21,7 @@ The mock business situation that I created for my project: There's a newly creat
 - Ensure data correct and appears as expected
 - Data cleanup, address missing values, etc
 #### Regression Viability
-- Correlation matrix (Determined features with most viability based on correlation to target)
+- Correlation matrix (Determined features based on correlation to target)
 - Reg Plots, R^2
 - Addressed colinearity issues
 - Feature Engineering
