@@ -33,7 +33,7 @@ The mock business situation that I created for my project: There's a newly creat
 - Utilized cross validation
 
 # Findings
-Check out the presentation [here](https://github.com/Jenni-Hawk/Matcha_Cafes/blob/main/Matcha_Presentation.pdf)
+Check out the presentation [here](https://github.com/Jenni-Hawk/LR_Thrillers/blob/main/Presentation_Linear_Regression.pdf)
 
 # Tech Tools Used
 - Request Module, BeautifulSoup Library
