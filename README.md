@@ -31,3 +31,15 @@ The mock business situation that I created for my project: There's a newly creat
 - Identified features with highest coefficient
 ### Train - Validate - Test
 - Utilized cross validation
+
+# Findings
+Check out the presentation here
+
+# Tech Tools Used
+- Request Module, BeautifulSoup Library
+- Pandas
+- Seaborn
+- Statsmodels
+- CPI Library (to apply inflation to budget based on year)
+- Sklearn
+
