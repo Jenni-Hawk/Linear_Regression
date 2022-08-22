@@ -9,7 +9,7 @@ The mock business situation that I created for my project: There's a newly creat
 # Business Questions
 - Does a set of features do a good job in predicting US Gross for thrillers?
 - Which features are significant predictors of US Gross for thrillers?
-- Check out the [final presentation](https://github.com/Jenni-Hawk/Matcha_Cafes/blob/main/Matcha_Presentation.pdf)
+- Check out the [final presentation](https://github.com/Jenni-Hawk/LR_Thrillers/blob/main/Presentation_Linear_Regression.pdf)
 
 # Data to Answer the Question
 - IMDB List of Thrillers for target and feature data
