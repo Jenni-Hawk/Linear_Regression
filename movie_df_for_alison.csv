@@ -1,0 +1,1073 @@
+Title,Duration,Genre,Rating,Gross,Director,Lead,Budget,Year,Budget_Adjust,Action,Adventure,Sci-Fi,Crime,Drama,Horror,Mystery,Comedy,History,Biography,Fantasy,Romance,Action_Adv,R,PG-13
+The Dark Knight,152,"Action, Crime, Drama",PG-13,534.86,Christopher Nolan,Christian Bale,185000000.0,2008-01-01,256181353.0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1
+The Hunger Games: Catching Fire,146,"Action, Adventure, Drama",PG-13,424.67,Francis Lawrence,Jennifer Lawrence,130000000.0,2013-01-01,165009901.0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+The Hunger Games,142,"Action, Adventure, Sci-Fi",PG-13,408.01,Gary Ross,Jennifer Lawrence,78000000.0,2012-01-01,100584951.4,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Jurassic Park,127,"Action, Adventure, Sci-Fi",PG-13,402.45,Steven Spielberg,Sam Neill,63000000.0,1993-01-01,129134979.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Furious 7,137,"Action, Crime, Thriller",PG-13,353.01,James Wan,Vin Diesel,190000000.0,2015-01-01,237631906.6,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+The Hunger Games: Mockingjay - Part 1,123,"Action, Adventure, Sci-Fi",PG-13,337.14,Francis Lawrence,Jennifer Lawrence,125000000.0,2014-01-01,156197096.4,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Joker,122,"Crime, Drama, Thriller",R,335.45,Todd Phillips,Joaquin Phoenix,55000000.0,2019-01-01,63867753.6,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Skyfall,143,"Action, Adventure, Thriller",PG-13,304.36,Sam Mendes,Daniel Craig,200000000.0,2012-01-01,257910131.7,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+The Twilight Saga: Eclipse,124,"Action, Adventure, Drama",PG-13,300.53,David Slade,Kristen Stewart,68000000.0,2010-01-01,91727367.1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+The Sixth Sense,107,"Drama, Mystery, Thriller",PG-13,293.51,M. Night Shyamalan,Bruce Willis,40000000.0,1999-01-01,71161533.8,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+Inception,148,"Action, Adventure, Sci-Fi",PG-13,292.58,Christopher Nolan,Leonardo DiCaprio,160000000.0,2010-01-01,215829099.1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+The Hunger Games: Mockingjay - Part 2,137,"Action, Adventure, Sci-Fi",PG-13,281.72,Francis Lawrence,Jennifer Lawrence,160000000.0,2015-01-01,200111079.3,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+The Twilight Saga: Breaking Dawn - Part 1,117,"Adventure, Drama, Fantasy",PG-13,281.29,Bill Condon,Kristen Stewart,110000000.0,2011-01-01,146000009.1,0,1,0,0,1,0,0,0,0,0,1,0,1,0,1
+Gravity,91,"Action, Drama, Sci-Fi",PG-13,274.09,Alfonso Cuarón,Sandra Bullock,100000000.0,2013-01-01,126930693.1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1
+Jaws,124,"Adventure, Thriller",PG,260.75,Steven Spielberg,Roy Scheider,7000000.0,1975-01-01,39272015.4,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Captain America: The Winter Soldier,136,"Action, Adventure, Sci-Fi",PG-13,259.77,Anthony Russo,Joe Russo,170000000.0,2014-01-01,212428051.1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+I Am Legend,101,"Action, Drama, Sci-Fi",PG-13,256.39,Francis Lawrence,Will Smith,150000000.0,2007-01-01,216605406.7,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1
+Twister,113,"Action, Adventure, Thriller",PG-13,241.72,Jan de Bont,Helen Hunt,92000000.0,1996-01-01,174166010.4,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Furious 6,130,"Action, Crime, Thriller",PG-13,238.68,Justin Lin,Vin Diesel,160000000.0,2013-01-01,203089108.9,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Beverly Hills Cop,105,"Action, Comedy, Crime",R,234.76,Martin Brest,Eddie Murphy,13000000.0,1984-01-01,37289970.6,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+X-Men: Days of Future Past,132,"Action, Adventure, Sci-Fi",PG-13,233.92,Bryan Singer,Patrick Stewart,200000000.0,2014-01-01,249915354.2,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Signs,106,"Drama, Mystery, Sci-Fi",PG-13,227.97,M. Night Shyamalan,Mel Gibson,72000000.0,2002-01-01,118832930.5,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1
+The Bourne Ultimatum,115,"Action, Mystery, Thriller",PG-13,227.47,Paul Greengrass,Matt Damon,110000000.0,2007-01-01,158843964.9,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+Logan,137,"Action, Drama, Sci-Fi",R,226.28,James Mangold,Hugh Jackman,97000000.0,2017-01-01,116755183.5,1,0,1,0,1,0,0,0,0,0,0,0,1,1,0
+Rush Hour 2,90,"Action, Comedy, Crime",PG-13,226.16,Brett Ratner,Jackie Chan,90000000.0,2001-01-01,150237807.0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+The Fate of the Furious,136,"Action, Crime, Thriller",PG-13,226.01,F. Gary Gray,Vin Diesel,250000000.0,2017-01-01,300915421.3,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Mission: Impossible - Fallout,147,"Action, Adventure, Thriller",PG-13,220.16,Christopher McQuarrie,Tom Cruise,178000000.0,2018-01-01,209905667.2,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+National Treasure: Book of Secrets,124,"Action, Adventure, Mystery",PG,219.96,Jon Turteltaub,Nicolas Cage,130000000.0,2007-01-01,187724685.8,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+Ghost,127,"Drama, Fantasy, Romance",PG-13,217.63,Jerry Zucker,Patrick Swayze,22000000.0,1990-01-01,50474976.5,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1
+The Da Vinci Code,149,"Mystery, Thriller",PG-13,217.54,Ron Howard,Tom Hanks,125000000.0,2006-01-01,184251134.6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Mission: Impossible II,123,"Action, Adventure, Thriller",PG-13,215.41,John Woo,Tom Cruise,125000000.0,2000-01-01,216451421.8,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+X2: X-Men United,134,"Action, Sci-Fi, Thriller",PG-13,214.95,Bryan Singer,Patrick Stewart,110000000.0,2003-01-01,176954100.2,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Venom: Let There Be Carnage,97,"Action, Adventure, Sci-Fi",PG-13,213.55,Andy Serkis,Tom Hardy,110000000.0,2021-01-01,122915797.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Fast Five,130,"Action, Crime, Thriller",PG-13,209.84,Justin Lin,Vin Diesel,125000000.0,2011-01-01,165909101.2,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Mission: Impossible - Ghost Protocol,132,"Action, Adventure, Thriller",PG-13,209.4,Brad Bird,Tom Cruise,145000000.0,2011-01-01,192454557.4,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Dawn of the Planet of the Apes,130,"Action, Adventure, Drama",PG-13,208.55,Matt Reeves,Gary Oldman,170000000.0,2014-01-01,212428051.1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+Bad Boys for Life,124,"Action, Comedy, Crime",R,206.31,Adil El Arbi,Bilall Fallah,90000000.0,2020-01-01,101975183.3,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+The Mummy Returns,130,"Action, Adventure, Fantasy",PG-13,202.02,Stephen Sommers,Brendan Fraser,98000000.0,2001-01-01,163592278.7,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1
+Armageddon,151,"Action, Adventure, Sci-Fi",PG-13,201.57,Michael Bay,Bruce Willis,140000000.0,1998-01-01,253226732.7,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Godzilla,123,"Action, Adventure, Sci-Fi",PG-13,200.68,Gareth Edwards,Aaron Taylor-Johnson,160000000.0,2014-01-01,199932283.4,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Spectre,148,"Action, Adventure, Thriller",PG-13,200.07,Sam Mendes,Daniel Craig,245000000.0,2015-01-01,306420090.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Mission: Impossible - Rogue Nation,131,"Action, Adventure, Thriller",PG-13,195.04,Christopher McQuarrie,Tom Cruise,150000000.0,2015-01-01,187604136.8,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Dunkirk,106,"Action, Drama, History",PG-13,188.37,Christopher Nolan,Fionn Whitehead,100000000.0,2017-01-01,120366168.5,1,0,0,0,1,0,0,0,1,0,0,0,1,0,1
+The Day After Tomorrow,124,"Action, Adventure, Sci-Fi",PG-13,186.74,Roland Emmerich,Dennis Quaid,125000000.0,2004-01-01,197284017.3,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Mr. & Mrs. Smith,120,"Action, Comedy, Crime",PG-13,186.34,Doug Liman,Brad Pitt,110000000.0,2005-01-01,168602831.7,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+The Fugitive,130,"Action, Crime, Drama",PG-13,183.88,Andrew Davis,Harrison Ford,86000000.0,1993-01-01,176279495.1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1
+Ocean's Eleven,116,"Crime, Thriller",PG-13,183.42,Steven Soderbergh,George Clooney,85000000.0,2001-01-01,141891262.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+The Perfect Storm,130,"Action, Adventure, Drama",PG-13,182.62,Wolfgang Petersen,George Clooney,140000000.0,2000-01-01,242425592.4,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+Jurassic Park III,92,"Action, Adventure, Sci-Fi",PG-13,181.17,Joe Johnston,Sam Neill,93000000.0,2001-01-01,155245733.9,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Mission: Impossible,110,"Action, Adventure, Thriller",PG-13,180.98,Brian De Palma,Tom Cruise,80000000.0,1996-01-01,151448704.7,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Planet of the Apes,119,"Action, Adventure, Sci-Fi",PG-13,180.01,Tim Burton,Mark Wahlberg,100000000.0,2001-01-01,166930896.6,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Rise of the Planet of the Apes,105,"Action, Drama, Sci-Fi",PG-13,176.76,Rupert Wyatt,James Franco,93000000.0,2011-01-01,123436371.3,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1
+The Bourne Supremacy,108,"Action, Mystery, Thriller",PG-13,176.24,Paul Greengrass,Matt Damon,75000000.0,2004-01-01,118370410.4,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+Get Out,104,"Horror, Mystery, Thriller",R,176.04,Jordan Peele,Daniel Kaluuya,4500000.0,2017-01-01,5416477.6,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Us,116,"Horror, Mystery, Thriller",R,175.08,Jordan Peele,Lupita Nyong'o,20000000.0,2019-01-01,23224637.7,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Fast & Furious Presents: Hobbs & Shaw,137,"Action, Adventure, Thriller",PG-13,173.96,David Leitch,Dwayne Johnson,200000000.0,2019-01-01,232246376.8,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+F9: The Fast Saga,143,"Action, Crime, Thriller",PG-13,173.2,Justin Lin,Vin Diesel,200000000.0,2021-01-01,223483267.2,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+National Treasure,131,"Action, Adventure, Mystery",PG,173.01,Jon Turteltaub,Nicolas Cage,100000000.0,2004-01-01,157827213.8,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+Air Force One,124,"Action, Drama, Thriller",R,172.96,Wolfgang Petersen,Harrison Ford,85000000.0,1997-01-01,156160653.7,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+John Wick: Chapter 3 - Parabellum,130,"Action, Crime, Thriller",R,171.02,Chad Stahelski,Keanu Reeves,75000000.0,2019-01-01,87092391.3,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Quantum of Solace,106,"Action, Adventure, Thriller",PG-13,168.37,Marc Forster,Daniel Craig,200000000.0,2008-01-01,276952814.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Gone Girl,149,"Drama, Mystery, Thriller",R,167.77,David Fincher,Ben Affleck,61000000.0,2014-01-01,76224183.0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+Casino Royale,144,"Action, Adventure, Thriller",PG-13,167.45,Martin Campbell,Daniel Craig,150000000.0,2006-01-01,221101361.6,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Fifty Shades of Grey,125,"Drama, Romance, Thriller",R,166.17,Sam Taylor-Johnson,Dakota Johnson,40000000.0,2015-01-01,50027769.8,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+Knives Out,130,"Comedy, Crime, Drama",PG-13,165.36,Rian Johnson,Daniel Craig,40000000.0,2019-01-01,46449275.4,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1
+Hannibal,131,"Crime, Drama, Thriller",R,165.09,Ridley Scott,Anthony Hopkins,87000000.0,2001-01-01,145229880.1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Jason Bourne,123,"Action, Thriller",PG-13,162.43,Paul Greengrass,Matt Damon,120000000.0,2016-01-01,148050448.3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Die Another Day,133,"Action, Adventure, Thriller",PG-13,160.94,Lee Tamahori,Pierce Brosnan,142000000.0,2002-01-01,234364946.4,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+No Time to Die,163,"Action, Adventure, Thriller",PG-13,160.87,Cary Joji Fukunaga,Daniel Craig,250000000.0,2021-01-01,279354084.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Shark Tale,90,"Animation, Adventure, Comedy",PG,160.86,Bibo Bergeron,Vicky Jenson,75000000.0,2004-01-01,118370410.4,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+Halloween,106,"Crime, Horror, Thriller",R,159.34,David Gordon Green,Jamie Lee Curtis,10000000.0,2018-01-01,11792453.2,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+Star Trek Beyond,122,"Action, Adventure, Sci-Fi",PG-13,158.85,Justin Lin,Chris Pine,185000000.0,2016-01-01,228244441.1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+The Firm,154,"Drama, Mystery, Thriller",R,158.35,Sydney Pollack,Tom Cruise,42000000.0,1993-01-01,86089986.0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+Fatal Attraction,119,"Drama, Thriller",R,156.65,Adrian Lyne,Michael Douglas,14000000.0,1987-01-01,36799856.1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+What Lies Beneath,130,"Drama, Horror, Mystery",PG-13,155.46,Robert Zemeckis,Harrison Ford,100000000.0,2000-01-01,173161137.4,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1
+San Andreas,114,"Action, Adventure, Thriller",PG-13,155.19,Brad Peyton,Dwayne Johnson,110000000.0,2015-01-01,137576367.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Fast & Furious,107,"Action, Crime, Thriller",PG-13,155.06,Justin Lin,Vin Diesel,85000000.0,2009-01-01,117669825.7,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Mad Max: Fury Road,120,"Action, Adventure, Sci-Fi",R,154.06,George Miller,Tom Hardy,150000000.0,2015-01-01,187604136.8,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0
+Beverly Hills Cop II,100,"Action, Comedy, Crime",R,153.67,Tony Scott,Eddie Murphy,27000000.0,1987-01-01,70971151.1,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+G.I. Joe: The Rise of Cobra,118,"Action, Adventure, Sci-Fi",PG-13,152.27,Stephen Sommers,Dennis Quaid,175000000.0,2009-01-01,242261405.8,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Rambo: First Blood Part II,96,"Action, Adventure, Thriller",R,150.42,George P. Cosmatos,Sylvester Stallone,44000000.0,1985-01-01,121905440.8,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+Megamind,95,"Animation, Action, Comedy",PG,148.42,Tom McGrath,Will Ferrell,130000000.0,2010-01-01,175361143.0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+Lethal Weapon 2,114,"Action, Crime, Thriller",R,147.25,Richard Donner,Mel Gibson,28000000.0,1989-01-01,67582890.2,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+War for the Planet of the Apes,140,"Action, Adventure, Drama",PG-13,146.88,Matt Reeves,Andy Serkis,150000000.0,2017-01-01,180549252.8,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+True Lies,141,"Action, Comedy, Thriller",R,146.28,James Cameron,Arnold Schwarzenegger,115000000.0,1994-01-01,229918194.3,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0
+Taken,90,"Action, Crime, Thriller",PG-13,145.0,Pierre Morel,Liam Neeson,25000000.0,2008-01-01,34619101.8,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+"I, Robot",115,"Action, Mystery, Sci-Fi",PG-13,144.8,Alex Proyas,Will Smith,120000000.0,2004-01-01,189392656.6,1,0,1,0,0,0,1,0,0,0,0,0,1,0,1
+Lethal Weapon 3,118,"Action, Crime, Thriller",R,144.73,Richard Donner,Mel Gibson,35000000.0,1992-01-01,74079362.8,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+The Fast and the Furious,106,"Action, Adventure, Crime",PG-13,144.53,Rob Cohen,Vin Diesel,38000000.0,2001-01-01,63433740.7,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+The Meg,113,"Action, Horror, Sci-Fi",PG-13,143.01,Jon Turteltaub,Jason Statham,130000000.0,2018-01-01,153301891.7,1,0,1,0,0,1,0,0,0,0,0,0,1,0,1
+xXx,124,"Action, Adventure, Thriller",PG-13,142.11,Rob Cohen,Vin Diesel,70000000.0,2002-01-01,115532015.8,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+A Few Good Men,138,"Drama, Thriller",R,141.34,Rob Reiner,Tom Cruise,41000000.0,1992-01-01,86778682.1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Rush Hour,98,"Action, Comedy, Crime",PG-13,141.15,Brett Ratner,Jackie Chan,33000000.0,1998-01-01,59689158.4,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+Deep Impact,120,"Action, Drama, Sci-Fi",PG-13,140.46,Mimi Leder,Robert Duvall,75000000.0,1998-01-01,135657178.2,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1
+Ocean's Eight,110,"Action, Comedy, Crime",PG-13,140.22,Gary Ross,Sandra Bullock,70000000.0,2018-01-01,82547172.5,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+Rush Hour 3,91,"Action, Comedy, Crime",PG-13,140.13,Brett Ratner,Jackie Chan,140000000.0,2007-01-01,202165046.2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+Taken 2,92,"Action, Crime, Thriller",PG-13,139.85,Olivier Megaton,Liam Neeson,45000000.0,2012-01-01,58029779.6,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Bad Boys II,147,"Action, Comedy, Crime",R,138.61,Michael Bay,Will Smith,130000000.0,2003-01-01,209127572.9,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Split,117,"Horror, Thriller",PG-13,138.29,M. Night Shyamalan,James McAvoy,9000000.0,2016-01-01,11103783.6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+The Conjuring,112,"Horror, Mystery, Thriller",R,137.4,James Wan,Patrick Wilson,20000000.0,2013-01-01,25386138.6,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Ransom,121,"Action, Crime, Thriller",R,136.49,Ron Howard,Mel Gibson,80000000.0,1996-01-01,151448704.7,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Godzilla,139,"Action, Sci-Fi, Thriller",PG-13,136.31,Roland Emmerich,Matthew Broderick,130000000.0,1998-01-01,235139108.9,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Argo,120,"Biography, Drama, Thriller",R,136.03,Ben Affleck,Ben Affleck,44500000.0,2012-01-01,57385004.3,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+Live Free or Die Hard,128,"Action, Thriller",PG-13,134.53,Len Wiseman,Bruce Willis,44500000.0,2007-01-01,64259604.0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Wanted,110,"Action, Crime, Thriller",R,134.51,Timur Bekmambetov,Angelina Jolie,110000000.0,2008-01-01,152324047.8,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+The Rock,136,"Action, Adventure, Thriller",R,134.07,Michael Bay,Sean Connery,75000000.0,1996-01-01,141983160.6,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+Mission: Impossible III,126,"Action, Adventure, Thriller",PG-13,134.03,J.J. Abrams,Tom Cruise,150000000.0,2006-01-01,221101361.6,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Angels & Demons,138,"Action, Mystery, Thriller",PG-13,133.38,Ron Howard,Tom Hanks,150000000.0,2009-01-01,207652633.5,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+The Departed,151,"Crime, Drama, Thriller",R,132.38,Martin Scorsese,Leonardo DiCaprio,90000000.0,2006-01-01,132660816.9,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Minority Report,145,"Action, Crime, Mystery",PG-13,132.07,Steven Spielberg,Tom Cruise,102000000.0,2002-01-01,168346651.6,1,0,0,1,0,0,1,0,0,0,0,0,1,0,1
+Lara Croft: Tomb Raider,100,"Action, Adventure, Fantasy",PG-13,131.14,Simon West,Angelina Jolie,115000000.0,2001-01-01,191970531.1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1
+The Silence of the Lambs,118,"Crime, Drama, Thriller",R,130.74,Jonathan Demme,Jodie Foster,19000000.0,1991-01-01,41260208.0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Lethal Weapon 4,127,"Action, Crime, Thriller",R,130.44,Richard Donner,Mel Gibson,140000000.0,1998-01-01,253226732.7,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+The Divergent Series: Insurgent,119,"Action, Adventure, Sci-Fi",PG-13,130.18,Robert Schwentke,Shailene Woodley,110000000.0,2015-01-01,137576367.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Kingsman: The Secret Service,129,"Action, Adventure, Comedy",R,128.26,Matthew Vaughn,Colin Firth,81000000.0,2014-01-01,101215718.5,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0
+Shutter Island,138,"Mystery, Thriller",R,128.01,Martin Scorsese,Leonardo DiCaprio,80000000.0,2010-01-01,107914549.6,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+2 Fast 2 Furious,107,"Action, Adventure, Crime",PG-13,127.15,John Singleton,Paul Walker,76000000.0,2003-01-01,122259196.5,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+Super 8,112,"Action, Mystery, Sci-Fi",PG-13,127.0,J.J. Abrams,Elle Fanning,50000000.0,2011-01-01,66363640.5,1,0,1,0,0,0,1,0,0,0,0,0,1,0,1
+The World Is Not Enough,128,"Action, Adventure, Thriller",PG-13,126.94,Michael Apted,Pierce Brosnan,135000000.0,1999-01-01,240170176.5,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Lucy,89,"Action, Sci-Fi, Thriller",R,126.66,Luc Besson,Scarlett Johansson,40000000.0,2014-01-01,49983070.8,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+Safe House,115,"Action, Thriller",R,126.37,Daniel Espinosa,Denzel Washington,85000000.0,2012-01-01,109611806.0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Ocean's Twelve,125,"Crime, Thriller",PG-13,125.54,Steven Soderbergh,George Clooney,110000000.0,2004-01-01,173609935.2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Tomorrow Never Dies,119,"Action, Adventure, Thriller",PG-13,125.33,Roger Spottiswoode,Pierce Brosnan,110000000.0,1997-01-01,202090257.7,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Charlie's Angels,98,"Action, Adventure, Comedy",PG-13,125.31,McG,Cameron Diaz,93000000.0,2000-01-01,161039857.8,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1
+Traffic,147,"Crime, Drama, Thriller",R,124.12,Steven Soderbergh,Michael Douglas,48000000.0,2000-01-01,83117346.0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+G.I. Joe: Retaliation,110,"Action, Adventure, Sci-Fi",PG-13,122.52,Jon M. Chu,Dwayne Johnson,130000000.0,2013-01-01,165009901.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Clear and Present Danger,141,"Action, Crime, Drama",PG-13,122.19,Phillip Noyce,Harrison Ford,62000000.0,1994-01-01,123955896.0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1
+The Hunt for Red October,135,"Action, Adventure, Thriller",PG,122.01,John McTiernan,Sean Connery,30000000.0,1990-01-01,68829513.3,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+The Bodyguard,129,"Action, Drama, Music",R,121.95,Mick Jackson,Kevin Costner,25000000.0,1992-01-01,52913830.6,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+The Bourne Identity,119,"Action, Mystery, Thriller",PG-13,121.66,Doug Liman,Franka Potente,60000000.0,2002-01-01,99027442.1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+Speed,116,"Action, Adventure, Thriller",R,121.25,Jan de Bont,Keanu Reeves,30000000.0,1994-01-01,59978659.4,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+Van Helsing,131,"Action, Adventure, Fantasy",PG-13,120.18,Stephen Sommers,Hugh Jackman,30000000.0,2004-01-01,47348164.1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1
+The Sum of All Fears,124,"Action, Drama, Thriller",PG-13,118.91,Phil Alden Robinson,Ben Affleck,160000000.0,2002-01-01,264073179.0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+Salt,100,"Action, Thriller",PG-13,118.31,Phillip Noyce,Angelina Jolie,68000000.0,2010-01-01,91727367.1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Basic Instinct,127,"Drama, Mystery, Thriller",R,117.73,Paul Verhoeven,Michael Douglas,110000000.0,1992-01-01,232820854.5,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+Now You See Me,115,"Crime, Mystery, Thriller",PG-13,117.72,Louis Leterrier,Jesse Eisenberg,49000000.0,2013-01-01,62196039.6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Die Hard 2,124,"Action, Thriller",R,117.54,Renny Harlin,Bruce Willis,75000000.0,1990-01-01,172073783.4,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+The Nun,96,"Horror, Mystery, Thriller",R,117.45,Corin Hardy,Demián Bichir,70000000.0,2018-01-01,82547172.5,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Ocean's Thirteen,122,"Crime, Thriller",PG-13,117.15,Steven Soderbergh,George Clooney,22000000.0,2007-01-01,31768793.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+S.W.A.T.,117,"Action, Adventure, Crime",PG-13,116.93,Clark Johnson,Samuel L. Jackson,85000000.0,2003-01-01,136737259.2,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+Double Jeopardy,105,"Crime, Drama, Mystery",R,116.74,Bruce Beresford,Ashley Judd,70000000.0,1999-01-01,124532684.1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+The Towering Inferno,165,"Action, Drama, Thriller",PG,116.0,John Guillermin,Paul Newman,14000000.0,1974-01-01,87814248.9,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Ghost Rider,110,"Action, Fantasy, Thriller",PG-13,115.8,Mark Steven Johnson,Nicolas Cage,110000000.0,2007-01-01,158843964.9,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+District 9,112,"Action, Sci-Fi, Thriller",R,115.65,Neill Blomkamp,Sharlto Copley,30000000.0,2009-01-01,41530526.7,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+The Village,108,"Drama, Mystery, Thriller",PG-13,114.2,M. Night Shyamalan,Sigourney Weaver,60000000.0,2004-01-01,94696328.3,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+The Bourne Legacy,135,"Action, Adventure, Thriller",PG-13,113.2,Tony Gilroy,Jeremy Renner,125000000.0,2012-01-01,161193832.3,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Face/Off,138,"Action, Crime, Sci-Fi",R,112.23,John Woo,John Travolta,80000000.0,1997-01-01,146974732.9,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0
+Enemy of the State,132,"Action, Thriller",R,111.55,Tony Scott,Will Smith,90000000.0,1998-01-01,162788613.9,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Glass,129,"Drama, Horror, Sci-Fi",PG-13,111.05,M. Night Shyamalan,James McAvoy,20000000.0,2019-01-01,23224637.7,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1
+The Grudge,91,"Horror, Mystery, Thriller",PG-13,110.36,Takashi Shimizu,Sarah Michelle Gellar,10000000.0,2004-01-01,15782721.4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+A Time to Kill,149,"Crime, Drama, Thriller",R,108.77,Joel Schumacher,Matthew McConaughey,40000000.0,1996-01-01,75724352.3,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Baby Driver,113,"Action, Crime, Drama",R,107.83,Edgar Wright,Ansel Elgort,34000000.0,2017-01-01,40924497.3,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Captain Phillips,134,"Action, Biography, Crime",PG-13,107.1,Paul Greengrass,Tom Hanks,55000000.0,2013-01-01,69811881.2,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1
+Black Swan,108,"Drama, Thriller",R,106.95,Darren Aronofsky,Natalie Portman,13000000.0,2010-01-01,17536114.3,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+GoldenEye,130,"Action, Adventure, Thriller",PG-13,106.6,Martin Campbell,Pierce Brosnan,60000000.0,1995-01-01,116685029.9,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+The Italian Job,111,"Action, Crime, Thriller",PG-13,106.13,F. Gary Gray,Donald Sutherland,60000000.0,2003-01-01,96520418.3,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Road to Perdition,117,"Crime, Drama, Thriller",R,104.45,Sam Mendes,Tom Hanks,80000000.0,2002-01-01,132036589.5,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+The Mule,116,"Crime, Drama, Thriller",R,103.8,Clint Eastwood,Clint Eastwood,50000000.0,2018-01-01,58962266.1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Dick Tracy,105,"Action, Comedy, Crime",PG,103.74,Warren Beatty,Warren Beatty,47000000.0,1990-01-01,107832904.2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0
+The Expendables,103,"Action, Adventure, Thriller",R,103.07,Sylvester Stallone,Sylvester Stallone,80000000.0,2010-01-01,107914549.6,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+Jaws 2,116,"Adventure, Horror, Thriller",PG,102.92,Jeannot Szwarc,Roy Scheider,20000000.0,1978-01-01,93534720.0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+The General's Daughter,116,"Crime, Drama, Mystery",R,102.71,Simon West,John Travolta,95000000.0,1999-01-01,169008642.7,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+The Girl with the Dragon Tattoo,158,"Crime, Drama, Mystery",R,102.52,David Fincher,Daniel Craig,90000000.0,2011-01-01,119454552.9,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+The Conjuring 2,134,"Horror, Mystery, Thriller",R,102.47,James Wan,Vera Farmiga,40000000.0,2016-01-01,49350149.4,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+The Maze Runner,113,"Action, Mystery, Sci-Fi",PG-13,102.43,Wes Ball,Dylan O'Brien,34000000.0,2014-01-01,42485610.2,1,0,1,0,0,0,1,0,0,0,0,0,1,0,1
+In the Line of Fire,128,"Action, Crime, Drama",R,102.31,Wolfgang Petersen,Clint Eastwood,40000000.0,1993-01-01,81990462.8,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Annabelle: Creation,109,"Horror, Mystery, Thriller",R,102.09,David F. Sandberg,Anthony LaPaglia,15000000.0,2017-01-01,18054925.3,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+The Equalizer 2,121,"Action, Crime, Thriller",R,102.08,Antoine Fuqua,Denzel Washington,62000000.0,2018-01-01,73113209.9,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Gone in 60 Seconds,118,"Action, Crime, Thriller",PG-13,101.65,Dominic Sena,Nicolas Cage,90000000.0,2000-01-01,155845023.7,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Sleeping with the Enemy,99,"Drama, Thriller",R,101.6,Joseph Ruben,Julia Roberts,19000000.0,1991-01-01,41260208.0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+The Equalizer,132,"Action, Crime, Thriller",R,101.53,Antoine Fuqua,Denzel Washington,55000000.0,2014-01-01,68726722.4,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Eraser,115,"Action, Crime, Thriller",R,101.3,Chuck Russell,Arnold Schwarzenegger,100000000.0,1996-01-01,189310880.8,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Con Air,115,"Action, Crime, Thriller",R,101.12,Simon West,Nicolas Cage,75000000.0,1997-01-01,137788812.1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Eagle Eye,118,"Action, Mystery, Thriller",PG-13,101.11,D.J. Caruso,Shia LaBeouf,80000000.0,2008-01-01,110781125.6,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+Collateral,120,"Action, Crime, Drama",R,101.01,Michael Mann,Tom Cruise,65000000.0,2004-01-01,102587689.0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Contact,150,"Drama, Mystery, Sci-Fi",PG,100.92,Robert Zemeckis,Jodie Foster,90000000.0,1997-01-01,165346574.5,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+Godzilla vs. Kong,113,"Action, Sci-Fi, Thriller",PG-13,100.92,Adam Wingard,Alexander Skarsgård,200000000.0,2021-01-01,223483267.2,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+The Pelican Brief,141,"Crime, Drama, Mystery",PG-13,100.77,Alan J. Pakula,Julia Roberts,45000000.0,1993-01-01,92239270.7,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Vanilla Sky,136,"Fantasy, Mystery, Romance",R,100.61,Cameron Crowe,Tom Cruise,68000000.0,2001-01-01,113513009.7,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0
+Airport,137,"Action, Drama, Thriller",G,100.49,George Seaton,Henry Hathaway,10000000.0,1970-01-01,77326984.1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Fifty Shades Freed,105,"Drama, Romance, Thriller",R,100.41,James Foley,Dakota Johnson,55000000.0,2018-01-01,64858492.7,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+Cowboys & Aliens,119,"Action, Sci-Fi, Thriller",PG-13,100.24,Jon Favreau,Daniel Craig,163000000.0,2011-01-01,216345468.0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Kingsman: The Golden Circle,141,"Action, Adventure, Comedy",R,100.23,Matthew Vaughn,Taron Egerton,104000000.0,2017-01-01,125180815.3,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0
+Se7en,127,"Crime, Drama, Mystery",R,100.13,David Fincher,Morgan Freeman,33000000.0,1995-01-01,64176766.5,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Passengers,116,"Drama, Romance, Sci-Fi",PG-13,100.01,Morten Tyldum,Jennifer Lawrence,110000000.0,2016-01-01,135712910.9,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1
+Die Hard with a Vengeance,128,"Action, Adventure, Thriller",R,100.01,John McTiernan,Bruce Willis,90000000.0,1995-01-01,175027544.9,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+Olympus Has Fallen,119,"Action, Thriller",R,98.93,Antoine Fuqua,Gerard Butler,70000000.0,2013-01-01,88851485.1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Date Night,88,"Comedy, Crime, Romance",PG-13,98.71,Shawn Levy,Steve Carell,55000000.0,2010-01-01,74191252.8,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1
+The Others,104,"Horror, Mystery, Thriller",PG-13,96.52,Alejandro Amenábar,Nicole Kidman,17000000.0,2001-01-01,28378252.4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Panic Room,112,"Crime, Drama, Thriller",R,96.4,David Fincher,Jodie Foster,48000000.0,2002-01-01,79221953.7,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Zero Dark Thirty,157,"Drama, History, Thriller",R,95.72,Kathryn Bigelow,Jessica Chastain,40000000.0,2012-01-01,51582026.3,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+Unbreakable,106,"Drama, Mystery, Sci-Fi",PG-13,95.01,M. Night Shyamalan,Bruce Willis,75000000.0,2000-01-01,129870853.1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1
+The Book of Eli,118,"Action, Adventure, Drama",R,94.84,Albert Hughes,Allen Hughes,80000000.0,2010-01-01,107914549.6,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0
+The Mask of Zorro,136,"Action, Adventure, Comedy",PG-13,94.1,Martin Campbell,Antonio Banderas,95000000.0,1998-01-01,171832425.7,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1
+Flight,138,"Drama, Thriller",R,93.77,Robert Zemeckis,Denzel Washington,31000000.0,2012-01-01,39976070.4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Red Dragon,124,"Crime, Drama, Thriller",R,93.15,Brett Ratner,Anthony Hopkins,78000000.0,2002-01-01,128735674.8,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+The Town,125,"Crime, Drama, Thriller",R,92.19,Ben Affleck,Ben Affleck,37000000.0,2010-01-01,49910479.2,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Non-Stop,106,"Action, Mystery, Thriller",PG-13,92.17,Jaume Collet-Serra,Liam Neeson,50000000.0,2014-01-01,62478838.6,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+The Client,119,"Crime, Drama, Mystery",PG-13,92.12,Joel Schumacher,Susan Sarandon,45000000.0,1994-01-01,89967989.1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Blade Runner 2049,164,"Action, Drama, Mystery",R,92.05,Denis Villeneuve,Harrison Ford,150000000.0,2017-01-01,180549252.8,1,0,0,0,1,0,1,0,0,0,0,0,1,1,0
+John Wick: Chapter 2,122,"Action, Crime, Thriller",R,92.03,Chad Stahelski,Keanu Reeves,40000000.0,2017-01-01,48146467.4,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Star Trek: First Contact,111,"Action, Adventure, Drama",PG-13,92.0,Jonathan Frakes,Patrick Stewart,45000000.0,1996-01-01,85189896.4,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+The Haunting,113,"Fantasy, Horror, Mystery",PG-13,91.41,Jan de Bont,Liam Neeson,80000000.0,1999-01-01,142323067.6,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1
+Crimson Tide,116,"Action, Drama, Thriller",R,91.4,Tony Scott,Gene Hackman,53000000.0,1995-01-01,103071776.4,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+The Imitation Game,114,"Biography, Drama, Thriller",PG-13,91.13,Morten Tyldum,Benedict Cumberbatch,14000000.0,2014-01-01,17494074.8,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+Space Cowboys,130,"Action, Adventure, Thriller",PG-13,90.46,Clint Eastwood,Clint Eastwood,65000000.0,2000-01-01,112554739.3,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+RED,111,"Action, Comedy, Crime",PG-13,90.38,Robert Schwentke,Bruce Willis,58000000.0,2010-01-01,78238048.4,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+Mystic River,138,"Crime, Drama, Mystery",R,90.14,Clint Eastwood,Sean Penn,25000000.0,2003-01-01,40216840.9,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Terminator Genisys,126,"Action, Adventure, Sci-Fi",PG-13,89.76,Alan Taylor,Arnold Schwarzenegger,155000000.0,2015-01-01,193857608.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Flightplan,98,"Drama, Mystery, Thriller",PG-13,89.71,Robert Schwentke,Jodie Foster,55000000.0,2005-01-01,84301415.8,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+Taken 3,108,"Action, Crime, Thriller",PG-13,89.26,Olivier Megaton,Liam Neeson,48000000.0,2014-01-01,59979685.0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Don't Breathe,88,"Crime, Horror, Thriller",R,89.22,Fede Alvarez,Stephen Lang,9900000.0,2016-01-01,12214162.0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+The Trial of Billy Jack,170,"Action, Drama, Music",PG,89.0,Tom Laughlin,Tom Laughlin,2500000.0,1974-01-01,15681115.9,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Inside Man,129,"Crime, Drama, Mystery",R,88.51,Spike Lee,Denzel Washington,45000000.0,2006-01-01,66330408.5,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+The Hand that Rocks the Cradle,110,"Drama, Thriller",R,88.04,Curtis Hanson,Annabella Sciorra,11700000.0,1992-01-01,24763672.7,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Entrapment,113,"Action, Crime, Romance",PG-13,87.7,Jon Amiel,Sean Connery,66000000.0,1999-01-01,117416530.7,1,0,0,1,0,0,0,0,0,0,0,1,1,0,1
+Miss Peregrine's Home for Peculiar Children,127,"Adventure, Drama, Family",PG-13,87.24,Tim Burton,Eva Green,110000000.0,2016-01-01,135712910.9,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+Presumed Innocent,127,"Mystery, Thriller",R,86.3,Alan J. Pakula,Harrison Ford,20000000.0,1990-01-01,45886342.2,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+The Accountant,128,"Action, Thriller",R,86.26,Gavin O'Connor,Ben Affleck,44000000.0,2016-01-01,54285164.4,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Alita: Battle Angel,122,"Action, Adventure, Sci-Fi",PG-13,85.71,Robert Rodriguez,Rosa Salazar,170000000.0,2019-01-01,197409420.3,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Aliens,137,"Action, Adventure, Sci-Fi",R,85.16,James Cameron,Sigourney Weaver,18500000.0,1986-01-01,49338284.7,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0
+The Expendables 2,103,"Action, Adventure, Thriller",R,85.02,Simon West,Sylvester Stallone,100000000.0,2012-01-01,128955065.8,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+The Poseidon Adventure,117,"Action, Adventure, Drama",PG,84.56,Ronald Neame,Gene Hackman,5000000.0,1972-01-01,35559124.1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+Annabelle,99,"Horror, Mystery, Thriller",R,84.27,John R. Leonetti,Ward Horton,6500000.0,2014-01-01,8122249.0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Cliffhanger,113,"Action, Adventure, Thriller",R,84.05,Renny Harlin,Sylvester Stallone,70000000.0,1993-01-01,143483310.0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+The X Files,121,"Drama, Mystery, Sci-Fi",PG-13,83.9,Rob Bowman,David Duchovny,66000000.0,1998-01-01,119378316.8,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1
+Insidious: Chapter 2,106,"Horror, Mystery, Thriller",PG-13,83.59,James Wan,Patrick Wilson,5000000.0,2013-01-01,6346534.7,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Under Siege,103,"Action, Thriller",R,83.36,Andrew Davis,Steven Seagal,35000000.0,1992-01-01,74079362.8,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Patriot Games,117,"Action, Thriller",R,83.29,Phillip Noyce,Harrison Ford,45000000.0,1992-01-01,95244895.0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Valkyrie,121,"Drama, History, Thriller",PG-13,83.08,Bryan Singer,Tom Cruise,75000000.0,2008-01-01,103857305.3,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+Disclosure,128,"Drama, Thriller",R,83.02,Barry Levinson,Michael Douglas,55000000.0,1994-01-01,109960875.5,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Die Hard,132,"Action, Thriller",R,83.01,John McTiernan,Bruce Willis,28000000.0,1988-01-01,70737147.8,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Blade II,117,"Action, Horror, Sci-Fi",R,82.35,Guillermo del Toro,Wesley Snipes,54000000.0,2002-01-01,89124697.9,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0
+Maze Runner: The Scorch Trials,131,"Action, Adventure, Sci-Fi",PG-13,81.7,Wes Ball,Dylan O'Brien,61000000.0,2015-01-01,76292349.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Unstoppable,98,"Action, Thriller",PG-13,81.56,Tony Scott,Denzel Washington,100000000.0,2010-01-01,134893186.9,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Payback,100,"Action, Crime, Drama",R,81.53,Brian Helgeland,Mel Gibson,90000000.0,1999-01-01,160113451.0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Talented Mr. Ripley,139,"Crime, Drama, Thriller",R,81.3,Anthony Minghella,Matt Damon,40000000.0,1999-01-01,71161533.8,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+21,123,"Crime, Drama, History",PG-13,81.16,Robert Luketic,Jim Sturgess,35000000.0,2008-01-01,48466742.5,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1
+Another 48 Hrs.,95,"Action, Comedy, Crime",R,80.82,Walter Hill,Eddie Murphy,38000000.0,1990-01-01,87184050.2,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Alien vs. Predator,101,"Action, Adventure, Horror",PG-13,80.28,Paul W.S. Anderson,Sanaa Lathan,60000000.0,2004-01-01,94696328.3,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1
+Saw III,108,"Crime, Horror, Mystery",R,80.24,Darren Lynn Bousman,Tobin Bell,10000000.0,2006-01-01,14740090.8,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0
+Disturbia,105,"Crime, Drama, Mystery",PG-13,80.21,D.J. Caruso,Shia LaBeouf,20000000.0,2007-01-01,28880720.9,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Jumper,88,"Action, Adventure, Sci-Fi",PG-13,80.17,Doug Liman,Hayden Christensen,85000000.0,2008-01-01,117704946.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+The Mummy,110,"Action, Adventure, Fantasy",PG-13,80.1,Alex Kurtzman,Tom Cruise,125000000.0,2017-01-01,150457710.7,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1
+Jack Reacher,130,"Action, Mystery, Thriller",PG-13,80.07,Christopher McQuarrie,Tom Cruise,60000000.0,2012-01-01,77373039.5,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+Cloverfield,85,"Action, Horror, Sci-Fi",PG-13,80.05,Matt Reeves,Mike Vogel,25000000.0,2008-01-01,34619101.8,1,0,1,0,0,1,0,0,0,0,0,0,1,0,1
+Dear John,108,"Drama, Mystery, Romance",PG-13,80.01,Lasse Hallström,Channing Tatum,25000000.0,2010-01-01,33723296.7,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1
+Knowing,121,"Action, Mystery, Sci-Fi",PG-13,79.96,Alex Proyas,Nicolas Cage,50000000.0,2009-01-01,69217544.5,1,0,1,0,0,0,1,0,0,0,0,0,1,0,1
+Earthquake,122,"Action, Drama, Thriller",PG,79.7,Mark Robson,Charlton Heston,7000000.0,1974-01-01,43907124.5,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+WarGames,114,"Action, Drama, Sci-Fi",PG,79.57,John Badham,Matthew Broderick,12000000.0,1983-01-01,35864539.9,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+The Day the Earth Stood Still,104,"Adventure, Drama, Sci-Fi",PG-13,79.37,Scott Derrickson,Keanu Reeves,80000000.0,2008-01-01,110781125.6,0,1,1,0,1,0,0,0,0,0,0,0,1,0,1
+Limitless,105,"Sci-Fi, Thriller",PG-13,79.25,Neil Burger,Bradley Cooper,27000000.0,2011-01-01,35836365.9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+The Purge: Election Year,108,"Action, Horror, Sci-Fi",R,79.21,James DeMonaco,Frank Grillo,10000000.0,2016-01-01,12337537.4,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0
+Cape Fear,128,"Crime, Thriller",R,79.1,Martin Scorsese,Robert De Niro,35000000.0,1991-01-01,76005646.4,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+48 Hrs.,96,"Action, Comedy, Crime",R,78.87,Walter Hill,Nick Nolte,12000000.0,1982-01-01,37195673.4,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Man on Fire,146,"Action, Crime, Drama",R,77.91,Tony Scott,Denzel Washington,70000000.0,2004-01-01,110479049.7,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Backdraft,137,"Action, Drama, Mystery",R,77.87,Ron Howard,Kurt Russell,40000000.0,1991-01-01,86863595.8,1,0,0,0,1,0,1,0,0,0,0,0,1,1,0
+The A-Team,117,"Action, Adventure, Thriller",PG-13,77.22,Joe Carnahan,Liam Neeson,110000000.0,2010-01-01,148382505.6,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Training Day,122,"Action, Crime, Drama",R,76.63,Antoine Fuqua,Denzel Washington,45000000.0,2001-01-01,75118903.5,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Poltergeist,114,"Horror, Thriller",PG,76.61,Tobe Hooper,JoBeth Williams,10700000.0,1982-01-01,33166142.1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+The Untouchables,119,"Crime, Drama, Thriller",R,76.27,Brian De Palma,Kevin Costner,25000000.0,1987-01-01,65714028.8,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Conspiracy Theory,135,"Action, Mystery, Thriller",R,75.98,Richard Donner,Mel Gibson,75000000.0,1997-01-01,137788812.1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+Star Trek: Generations,118,"Action, Adventure, Mystery",PG,75.67,David Carson,Patrick Stewart,35000000.0,1994-01-01,69975102.6,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+Contagion,106,"Drama, Thriller",PG-13,75.66,Steven Soderbergh,Matt Damon,60000000.0,2011-01-01,79636368.6,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+2 Guns,109,"Action, Comedy, Crime",R,75.61,Baltasar Kormákur,Denzel Washington,61000000.0,2013-01-01,77427722.8,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+The Hitman's Bodyguard,118,"Action, Comedy, Crime",R,75.47,Patrick Hughes,Ryan Reynolds,30000000.0,2017-01-01,36109850.6,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+The Girl on the Train,112,"Crime, Drama, Mystery",R,75.4,Tate Taylor,Emily Blunt,45000000.0,2016-01-01,55518918.1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Coraline,100,"Animation, Drama, Family",PG,75.29,Henry Selick,Dakota Fanning,60000000.0,2009-01-01,83061053.4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+The Exorcism of Emily Rose,119,"Drama, Horror, Thriller",PG-13,75.07,Scott Derrickson,Laura Linney,19000000.0,2005-01-01,29122307.3,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+Star Trek VI: The Undiscovered Country,110,"Action, Adventure, Sci-Fi",PG,74.89,Nicholas Meyer,William Shatner,30000000.0,1991-01-01,65147696.9,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+Ladder 49,115,"Action, Drama, Thriller",PG-13,74.54,Jay Russell,Joaquin Phoenix,55000000.0,2004-01-01,86804967.6,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+Four Brothers,109,"Action, Crime, Drama",R,74.49,John Singleton,Mark Wahlberg,45000000.0,2005-01-01,68973885.7,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+No Country for Old Men,122,"Crime, Drama, Thriller",R,74.28,Ethan Coen,Joel Coen,25000000.0,2007-01-01,36100901.1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Alien: Covenant,122,"Horror, Sci-Fi, Thriller",R,74.26,Ridley Scott,Michael Fassbender,97000000.0,2017-01-01,116755183.5,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+Annabelle Comes Home,106,"Horror, Mystery, Thriller",R,74.15,Gary Dauberman,Vera Farmiga,30000000.0,2019-01-01,34836956.5,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Sin City,124,"Crime, Thriller",R,74.1,Frank Miller,Quentin Tarantino,40000000.0,2005-01-01,61310120.6,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Along Came a Spider,104,"Drama, Thriller",R,74.08,Lee Tamahori,Morgan Freeman,60000000.0,2001-01-01,100158538.0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Deep Blue Sea,105,"Action, Adventure, Sci-Fi",R,73.65,Renny Harlin,Thomas Jane,60000000.0,1999-01-01,106742300.7,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0
+Law Abiding Citizen,109,"Action, Crime, Drama",R,73.34,F. Gary Gray,Gerard Butler,50000000.0,2009-01-01,69217544.5,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Hollow Man,112,"Action, Horror, Sci-Fi",R,73.21,Paul Verhoeven,Kevin Bacon,95000000.0,2000-01-01,164503080.6,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0
+White House Down,131,"Action, Drama, Thriller",PG-13,73.1,Roland Emmerich,Channing Tatum,150000000.0,2013-01-01,190396039.6,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+The Interpreter,128,"Crime, Mystery, Thriller",PG-13,72.71,Sydney Pollack,Nicole Kidman,80000000.0,2005-01-01,122620241.2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Bridge of Spies,142,"Drama, History, Thriller",PG-13,72.31,Steven Spielberg,Tom Hanks,40000000.0,2015-01-01,50027769.8,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+Vantage Point,90,"Action, Crime, Drama",PG-13,72.27,Pete Travis,Dennis Quaid,40000000.0,2008-01-01,55390562.8,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1
+10 Cloverfield Lane,103,"Drama, Horror, Mystery",PG-13,72.08,Dan Trachtenberg,John Goodman,15000000.0,2016-01-01,18506306.0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1
+Get Shorty,105,"Comedy, Crime, Thriller",R,72.08,Barry Sonnenfeld,Gene Hackman,30250000.0,1995-01-01,58828702.6,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+The Purge: Anarchy,103,"Action, Horror, Sci-Fi",R,71.96,James DeMonaco,Frank Grillo,9000000.0,2014-01-01,11246190.9,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0
+John Q,116,"Crime, Drama, Thriller",PG-13,71.76,Nick Cassavetes,Denzel Washington,36000000.0,2002-01-01,59416465.3,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+Mama,100,"Fantasy, Horror, Thriller",PG-13,71.63,Andy Muschietti,Jessica Chastain,15000000.0,2013-01-01,19039604.0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Safe Haven,115,"Drama, Romance, Thriller",PG-13,71.35,Lasse Hallström,Julianne Hough,28000000.0,2013-01-01,35540594.1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1
+The Spiderwick Chronicles,96,"Action, Adventure, Drama",PG,71.2,Mark Waters,Freddie Highmore,90000000.0,2008-01-01,124628766.3,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+Turner & Hooch,97,"Comedy, Crime, Drama",PG,71.08,Roger Spottiswoode,Tom Hanks,13000000.0,1989-01-01,31377770.4,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0
+The Score,124,"Action, Crime, Drama",R,71.07,Frank Oz,Robert De Niro,68000000.0,2001-01-01,113513009.7,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Broken Arrow,108,"Action, Adventure, Thriller",R,70.77,John Woo,John Travolta,50000000.0,1996-01-01,94655440.4,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+All the President's Men,138,"Drama, History, Thriller",PG,70.6,Alan J. Pakula,Dustin Hoffman,8500000.0,1976-01-01,44685539.6,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+V for Vendetta,132,"Action, Drama, Sci-Fi",R,70.51,James McTeigue,Hugo Weaving,54000000.0,2005-01-01,82768662.8,1,0,1,0,1,0,0,0,0,0,0,0,1,1,0
+Mortal Kombat,101,"Action, Adventure, Fantasy",PG-13,70.45,Paul W.S. Anderson,Christopher Lambert,18000000.0,1995-01-01,35005509.0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1
+The Invisible Man,124,"Drama, Horror, Mystery",R,70.41,Leigh Whannell,Elisabeth Moss,7000000.0,2020-01-01,7931403.1,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0
+JFK,189,"Drama, History, Thriller",R,70.41,Oliver Stone,Kevin Costner,40000000.0,1991-01-01,86863595.8,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+Shaft,99,"Action, Crime, Thriller",R,70.33,John Singleton,Samuel L. Jackson,46000000.0,2000-01-01,79654123.2,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Moonraker,126,"Action, Adventure, Sci-Fi",PG,70.31,Lewis Gilbert,Roger Moore,34000000.0,1979-01-01,145506061.5,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+World Trade Center,129,"Drama, History, Thriller",PG-13,70.28,Oliver Stone,Nicolas Cage,65000000.0,2006-01-01,95810590.0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+Fool's Gold,112,"Action, Adventure, Comedy",PG-13,70.23,Andy Tennant,Matthew McConaughey,70000000.0,2008-01-01,96933484.9,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1
+Star Trek: Insurrection,103,"Action, Adventure, Sci-Fi",PG,70.12,Jonathan Frakes,Patrick Stewart,58000000.0,1998-01-01,104908217.8,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+Kill Bill: Vol. 1,111,"Action, Crime, Drama",R,70.1,Quentin Tarantino,Uma Thurman,30000000.0,2003-01-01,48260209.1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Act of Valor,110,"Action, Adventure, Thriller",R,70.01,Mike McCoy,Scott Waugh,12000000.0,2012-01-01,15474607.9,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+Swordfish,99,"Action, Crime, Thriller",R,69.77,Dominic Sena,John Travolta,102000000.0,2001-01-01,170269514.6,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+The First Purge,97,"Action, Horror, Sci-Fi",R,69.49,Gerard McMurray,Y'lan Noel,13000000.0,2018-01-01,15330189.2,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0
+The Thomas Crown Affair,113,"Crime, Romance, Thriller",R,69.3,John McTiernan,Pierce Brosnan,48000000.0,1999-01-01,85393840.5,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+Vertical Limit,124,"Action, Adventure, Drama",PG-13,69.24,Martin Campbell,Scott Glenn,75000000.0,2000-01-01,129870853.1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+Game Night,100,"Action, Adventure, Comedy",R,69.18,John Francis Daley,Jonathan Goldstein,37000000.0,2018-01-01,43632076.9,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0
+Lost in Space,130,"Action, Adventure, Family",PG-13,69.12,Stephen Hopkins,Gary Oldman,80000000.0,1998-01-01,144700990.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Angel Has Fallen,121,"Action, Thriller",R,69.03,Ric Roman Waugh,Gerard Butler,40000000.0,2019-01-01,46449275.4,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Witness,112,"Drama, Romance, Thriller",R,68.71,Peter Weir,Harrison Ford,12000000.0,1985-01-01,33246938.4,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+Blue Streak,93,"Action, Comedy, Crime",PG-13,68.52,Les Mayfield,Martin Lawrence,65000000.0,1999-01-01,115637492.4,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+Skyscraper,102,"Action, Adventure, Thriller",PG-13,68.42,Rawson Marshall Thurber,Dwayne Johnson,125000000.0,2018-01-01,147405665.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Obsessed,108,"Comedy, Drama, Romance",PG-13,68.26,Steve Shill,Beyoncé,20000000.0,2009-01-01,27687017.8,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1
+Octopussy,131,"Action, Adventure, Thriller",PG,67.9,John Glen,Roger Moore,27500000.0,1983-01-01,82189570.6,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Outbreak,127,"Action, Drama, Thriller",R,67.82,Wolfgang Petersen,Dustin Hoffman,50000000.0,1995-01-01,97237525.0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+Insidious: The Last Key,103,"Horror, Mystery, Thriller",PG-13,67.75,Adam Robitel,Lin Shaye,10000000.0,2018-01-01,11792453.2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Sudden Impact,117,"Action, Crime, Thriller",R,67.64,Clint Eastwood,Clint Eastwood,22000000.0,1983-01-01,65751656.4,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+A Perfect Murder,107,"Crime, Drama, Thriller",R,67.64,Andrew Davis,Michael Douglas,60000000.0,1998-01-01,108525742.6,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+The Tourist,103,"Action, Thriller",PG-13,67.63,Florian Henckel von Donnersmarck,Johnny Depp,100000000.0,2010-01-01,134893186.9,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Insomnia,118,"Drama, Mystery, Thriller",R,67.36,Christopher Nolan,Al Pacino,46000000.0,2002-01-01,75921039.0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+A Good Day to Die Hard,98,"Action, Thriller",R,67.35,John Moore,Bruce Willis,92000000.0,2013-01-01,116776237.6,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Race to Witch Mountain,98,"Action, Adventure, Family",PG,67.17,Andy Fickman,Dwayne Johnson,65000000.0,2009-01-01,89982807.9,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Dante's Peak,108,"Action, Adventure, Thriller",PG-13,67.13,Roger Donaldson,Pierce Brosnan,116000000.0,1997-01-01,213113362.7,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+End of Days,122,"Action, Fantasy, Horror",R,66.89,Peter Hyams,Arnold Schwarzenegger,100000000.0,1999-01-01,177903834.4,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0
+Changing Lanes,98,"Drama, Thriller",R,66.82,Roger Michell,Ben Affleck,45000000.0,2002-01-01,74270581.6,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+The Forgotten,91,"Drama, Mystery, Sci-Fi",PG-13,66.64,Joseph Ruben,Julianne Moore,42000000.0,2004-01-01,66287429.8,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1
+Contraband,109,"Action, Crime, Drama",R,66.53,Baltasar Kormákur,Mark Wahlberg,25000000.0,2012-01-01,32238766.5,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Bone Collector,118,"Crime, Drama, Mystery",R,66.52,Phillip Noyce,Denzel Washington,73000000.0,1999-01-01,129869799.1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Looper,119,"Action, Drama, Sci-Fi",R,66.49,Rian Johnson,Joseph Gordon-Levitt,30000000.0,2012-01-01,38686519.8,1,0,1,0,1,0,0,0,0,0,0,0,1,1,0
+The Final Destination,82,"Horror, Thriller",R,66.48,David R. Ellis,Nick Zano,40000000.0,2009-01-01,55374035.6,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Kill Bill: Vol. 2,137,"Action, Crime, Thriller",R,66.21,Quentin Tarantino,Uma Thurman,30000000.0,2004-01-01,47348164.1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Allegiant,120,"Action, Adventure, Mystery",PG-13,66.18,Robert Schwentke,Shailene Woodley,110000000.0,2016-01-01,135712910.9,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1
+The Manchurian Candidate,129,"Drama, Mystery, Sci-Fi",R,65.96,Jonathan Demme,Denzel Washington,45000000.0,2004-01-01,71022246.2,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0
+Anaconda,89,"Action, Adventure, Horror",PG-13,65.89,Luis Llosa,Jon Voight,19000000.0,1997-01-01,34906499.1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1
+Bad Boys,119,"Action, Comedy, Crime",R,65.81,Michael Bay,Will Smith,19000000.0,1995-01-01,36950259.5,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Stakeout,117,"Action, Comedy, Crime",R,65.67,John Badham,Richard Dreyfuss,14500000.0,1987-01-01,38114136.7,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+The Taking of Pelham 1 2 3,106,"Action, Crime, Thriller",R,65.45,Tony Scott,Denzel Washington,100000000.0,2009-01-01,138435089.0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Battleship,131,"Action, Adventure, Sci-Fi",PG-13,65.42,Peter Berg,Alexander Skarsgård,209000000.0,2012-01-01,269516087.6,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Lethal Weapon,109,"Action, Crime, Thriller",R,65.21,Richard Donner,Mel Gibson,15000000.0,1987-01-01,39428417.3,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+The Visit,94,"Horror, Mystery, Thriller",PG-13,65.21,M. Night Shyamalan,Olivia DeJonge,5000000.0,2015-01-01,6253471.2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Now You See Me 2,129,"Action, Adventure, Comedy",PG-13,65.08,Jon M. Chu,Jesse Eisenberg,90000000.0,2016-01-01,111037836.2,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1
+Wolf,125,"Drama, Horror, Romance",R,65.01,Mike Nichols,Jack Nicholson,70000000.0,1994-01-01,139950205.2,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0
+Friday the 13th,97,"Horror, Mystery, Thriller",R,65.0,Marcus Nispel,Jared Padalecki,19000000.0,2009-01-01,26302666.9,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+L.A. Confidential,138,"Crime, Drama, Mystery",R,64.62,Curtis Hanson,Kevin Spacey,35000000.0,1997-01-01,64301445.6,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Chronicle,84,"Action, Drama, Sci-Fi",PG-13,64.58,Josh Trank,Dane DeHaan,12000000.0,2012-01-01,15474607.9,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1
+The Happening,91,"Adventure, Sci-Fi, Thriller",R,64.51,M. Night Shyamalan,Mark Wahlberg,48000000.0,2008-01-01,66468675.4,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0
+The Purge,85,"Horror, Sci-Fi, Thriller",R,64.47,James DeMonaco,Ethan Hawke,3000000.0,2013-01-01,3807920.8,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+Deja Vu,126,"Action, Crime, Sci-Fi",PG-13,64.04,Tony Scott,Denzel Washington,75000000.0,2006-01-01,110550680.8,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1
+Unknown,113,"Action, Mystery, Thriller",PG-13,63.69,Jaume Collet-Serra,Liam Neeson,30000000.0,2011-01-01,39818184.3,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+Thunderball,130,"Action, Adventure, Thriller",PG,63.6,Terence Young,Sean Connery,9000000.0,1965-01-01,84316153.8,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Miami Vice,132,"Action, Adventure, Crime",R,63.45,Michael Mann,Colin Farrell,135000000.0,2006-01-01,198991225.4,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+Tango & Cash,104,"Action, Comedy, Crime",R,63.41,Andrey Konchalovskiy,Albert Magnoli,55000000.0,1989-01-01,132752105.7,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Saw IV,93,"Action, Adventure, Crime",R,63.3,Darren Lynn Bousman,Tobin Bell,10000000.0,2007-01-01,14440360.4,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+Rising Sun,129,"Action, Crime, Drama",R,63.1,Philip Kaufman,Sean Connery,35000000.0,1993-01-01,71741655.0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+London Has Fallen,99,"Action, Thriller",R,62.68,Babak Najafi,Gerard Butler,60000000.0,2016-01-01,74025224.1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+The Crying Game,112,"Crime, Drama, Romance",R,62.55,Neil Jordan,Stephen Rea,2820835.0,1992-01-01,5970447.4,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0
+The Fast and the Furious: Tokyo Drift,104,"Action, Adventure, Crime",PG-13,62.51,Justin Lin,Lucas Black,85000000.0,2006-01-01,125290771.6,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+The Adjustment Bureau,106,"Romance, Sci-Fi, Thriller",PG-13,62.5,George Nolfi,Matt Damon,50200000.0,2011-01-01,66629095.1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+Underworld: Evolution,106,"Action, Fantasy, Thriller",R,62.32,Len Wiseman,Kate Beckinsale,50000000.0,2006-01-01,73700453.9,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+For Your Eyes Only,127,"Action, Adventure, Thriller",PG,62.3,John Glen,Roger Moore,28000000.0,1981-01-01,94072275.9,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+The Wolfman,103,"Drama, Fantasy, Horror",R,61.98,Joe Johnston,Benicio Del Toro,150000000.0,2010-01-01,202339780.4,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0
+Flatliners,115,"Drama, Horror, Sci-Fi",R,61.49,Joel Schumacher,Kiefer Sutherland,26000000.0,1990-01-01,59652244.9,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0
+Deepwater Horizon,107,"Action, Drama, History",PG-13,61.43,Peter Berg,Mark Wahlberg,110000000.0,2016-01-01,135712910.9,1,0,0,0,1,0,0,0,1,0,0,0,1,0,1
+The Saint,116,"Action, Adventure, Romance",PG-13,61.36,Phillip Noyce,Val Kilmer,68000000.0,1997-01-01,124928522.9,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1
+Rules of Engagement,128,"Drama, Thriller, War",R,61.34,William Friedkin,Tommy Lee Jones,60000000.0,2000-01-01,103896682.5,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+The Cell,107,"Crime, Horror, Sci-Fi",R,61.33,Tarsem Singh,Jennifer Lopez,33000000.0,2000-01-01,57143175.4,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+Misery,107,"Drama, Thriller",R,61.28,Rob Reiner,James Caan,20000000.0,1990-01-01,45886342.2,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Prisoners,153,"Crime, Drama, Mystery",R,61.0,Denis Villeneuve,Hugh Jackman,46000000.0,2013-01-01,58388118.8,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+The Devil's Advocate,144,"Drama, Mystery, Thriller",R,60.98,Taylor Hackford,Keanu Reeves,57000000.0,1997-01-01,104719497.2,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+Mission to Mars,114,"Adventure, Sci-Fi, Thriller",PG,60.88,Brian De Palma,Tim Robbins,100000000.0,2000-01-01,173161137.4,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+Poseidon,98,"Action, Adventure, Thriller",PG-13,60.67,Wolfgang Petersen,Richard Dreyfuss,160000000.0,2006-01-01,235841452.3,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Kiss the Girls,115,"Crime, Drama, Mystery",R,60.53,Gary Fleder,Morgan Freeman,27000000.0,1997-01-01,49603972.3,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Burn After Reading,96,"Comedy, Crime, Drama",R,60.36,Ethan Coen,Joel Coen,37000000.0,2008-01-01,51236270.6,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+The Cable Guy,96,"Comedy, Drama, Thriller",PG-13,60.24,Ben Stiller,Jim Carrey,47000000.0,1996-01-01,88976114.0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+Species,108,"Action, Horror, Sci-Fi",R,60.07,Roger Donaldson,Natasha Henstridge,35000000.0,1995-01-01,68066267.5,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0
+The Good Shepherd,167,"Drama, History, Thriller",R,59.95,Robert De Niro,Matt Damon,110000000.0,2006-01-01,162140998.5,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+Gothika,98,"Horror, Mystery, Thriller",R,59.69,Mathieu Kassovitz,Halle Berry,40000000.0,2003-01-01,64346945.5,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+The Last Boy Scout,105,"Action, Comedy, Crime",R,59.51,Tony Scott,Bruce Willis,43000000.0,1991-01-01,93378365.5,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+The Stepford Wives,93,"Comedy, Horror, Sci-Fi",PG-13,59.48,Frank Oz,Nicole Kidman,90000000.0,2004-01-01,142044492.4,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1
+Behind Enemy Lines,106,"Action, Drama, Thriller",PG-13,59.07,John Moore,Gene Hackman,40000000.0,2001-01-01,66772358.7,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+Courage Under Fire,116,"Action, Drama, Mystery",R,59.03,Edward Zwick,Denzel Washington,46000000.0,1996-01-01,87083005.2,1,0,0,0,1,0,1,0,0,0,0,0,1,1,0
+Total Recall,118,"Action, Adventure, Sci-Fi",PG-13,58.88,Len Wiseman,Colin Farrell,125000000.0,2012-01-01,161193832.3,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Jack Reacher: Never Go Back,118,"Action, Crime, Drama",PG-13,58.7,Edward Zwick,Tom Cruise,60000000.0,2016-01-01,74025224.1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1
+RoboCop,117,"Action, Crime, Sci-Fi",PG-13,58.61,José Padilha,Joel Kinnaman,100000000.0,2014-01-01,124957677.1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1
+Sea of Love,113,"Crime, Drama, Mystery",R,58.57,Harold Becker,Al Pacino,19000000.0,1989-01-01,45859818.3,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Tenet,150,"Action, Adventure, Sci-Fi",PG-13,58.46,Christopher Nolan,John David Washington,205000000.0,2020-01-01,232276806.3,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Tomb Raider,119,"Action, Adventure, Fantasy",PG-13,58.25,Roar Uthaug,Alicia Vikander,94000000.0,2018-01-01,110849060.2,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1
+Demolition Man,115,"Action, Sci-Fi, Thriller",R,58.06,Marco Brambilla,Sylvester Stallone,57000000.0,1993-01-01,116836409.5,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+Maze Runner: The Death Cure,143,"Action, Adventure, Sci-Fi",PG-13,58.03,Wes Ball,Dylan O'Brien,62000000.0,2018-01-01,73113209.9,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+The Lincoln Lawyer,118,"Crime, Drama, Mystery",R,58.01,Brad Furman,Matthew McConaughey,40000000.0,2011-01-01,53090912.4,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+The Butterfly Effect,113,"Drama, Sci-Fi, Thriller",R,57.94,Eric Bress,J. Mackye Gruber,13000000.0,2004-01-01,20517537.8,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Throw Momma from the Train,88,"Comedy, Crime, Thriller",PG-13,57.92,Danny DeVito,Danny DeVito,14000000.0,1987-01-01,36799856.1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+Red Eye,85,Thriller,PG-13,57.89,Wes Craven,Rachel McAdams,26000000.0,2005-01-01,39851578.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+The Chronicles of Riddick,119,"Action, Adventure, Sci-Fi",R,57.76,David Twohy,Vin Diesel,105000000.0,2004-01-01,165718574.5,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0
+Takers,107,"Action, Crime, Thriller",PG-13,57.74,John Luessenhop,Chris Brown,32000000.0,2010-01-01,43165819.8,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Unfaithful,124,"Drama, Romance, Thriller",R,52.8,Adrian Lyne,Richard Gere,50000000.0,2002-01-01,82522868.4,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+The Strangers,86,"Horror, Mystery, Thriller",R,52.6,Bryan Bertino,Scott Speedman,9000000.0,2008-01-01,12462876.6,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+No Good Deed,84,Thriller,PG-13,52.54,Sam Miller,Taraji P. Henson,13200000.0,2014-01-01,16494413.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Insidious: Chapter 3,97,"Horror, Mystery, Thriller",PG-13,52.22,Leigh Whannell,Dermot Mulroney,10000000.0,2015-01-01,12506942.5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Star Trek V: The Final Frontier,107,"Action, Adventure, Fantasy",PG,52.21,William Shatner,William Shatner,27800000.0,1989-01-01,67100155.2,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0
+Identity,90,"Mystery, Thriller",R,52.16,James Mangold,John Cusack,28000000.0,2003-01-01,45042861.9,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+Predators,107,"Action, Adventure, Sci-Fi",R,52.0,Nimród Antal,Adrien Brody,40000000.0,2010-01-01,53957274.8,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0
+Underworld,121,"Action, Fantasy, Thriller",R,51.97,Len Wiseman,Kate Beckinsale,22000000.0,2003-01-01,35390820.0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+The Call,94,"Action, Adventure, Crime",R,51.87,Brad Anderson,Halle Berry,13000000.0,2013-01-01,16500990.1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+Ghost Rider: Spirit of Vengeance,96,"Action, Fantasy, Thriller",PG-13,51.77,Mark Neveldine,Brian Taylor,57000000.0,2011-01-01,75654550.2,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+Exit Wounds,101,"Action, Crime, Thriller",R,51.76,Andrzej Bartkowiak,Steven Seagal,50000000.0,2001-01-01,83465448.3,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+The China Syndrome,122,"Drama, Thriller",PG,51.72,James Bridges,Jane Fonda,6000000.0,1979-01-01,25677540.3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Atomic Blonde,115,"Action, Thriller",R,51.69,David Leitch,Charlize Theron,30000000.0,2017-01-01,36109850.6,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+The Grey,117,"Action, Adventure, Drama",R,51.58,Joe Carnahan,Liam Neeson,25000000.0,2011-01-01,33181820.2,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0
+My Bloody Valentine,101,"Horror, Mystery, Thriller",R,51.55,Patrick Lussier,Jensen Ackles,15000000.0,2009-01-01,20765263.4,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Sneakers,126,"Comedy, Crime, Drama",PG-13,51.43,Phil Alden Robinson,Robert Redford,23000000.0,1992-01-01,48680724.1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1
+The Phantom of the Opera,143,"Drama, Musical, Romance",PG-13,51.27,Joel Schumacher,Gerard Butler,70000000.0,2004-01-01,110479049.7,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1
+Resident Evil: Apocalypse,94,"Action, Horror, Sci-Fi",R,51.2,Alexander Witt,Milla Jovovich,45000000.0,2004-01-01,71022246.2,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0
+The Living Daylights,130,"Action, Adventure, Thriller",PG,51.19,John Glen,Timothy Dalton,40000000.0,1987-01-01,105142446.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Goldfinger,110,"Action, Adventure, Thriller",PG,51.08,Guy Hamilton,Sean Connery,3000000.0,1964-01-01,28378252.4,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Apocalypto,139,"Action, Adventure, Drama",R,50.87,Mel Gibson,Gerardo Taracena,40000000.0,2006-01-01,58960363.1,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0
+Ouija,89,"Horror, Mystery, Thriller",PG-13,50.86,Stiles White,Olivia Cooke,5000000.0,2014-01-01,6247883.9,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Syriana,128,"Drama, Thriller",R,50.82,Stephen Gaghan,George Clooney,50000000.0,2005-01-01,76637650.8,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+The Net,114,"Action, Crime, Drama",PG-13,50.73,Irwin Winkler,Sandra Bullock,22000000.0,1995-01-01,42784511.0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1
+The Crow,102,"Action, Crime, Drama",R,50.69,Alex Proyas,Brandon Lee,23000000.0,1994-01-01,45983638.9,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Mighty Joe Young,114,"Action, Adventure, Family",PG,50.63,Ron Underwood,Bill Paxton,90000000.0,1998-01-01,162788613.9,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Jack Ryan: Shadow Recruit,105,"Action, Drama, Thriller",PG-13,50.58,Kenneth Branagh,Chris Pine,60000000.0,2014-01-01,74974606.3,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+A View to a Kill,131,"Action, Adventure, Thriller",PG,50.33,John Glen,Roger Moore,30000000.0,1985-01-01,83117346.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Ad Astra,123,"Adventure, Drama, Mystery",PG-13,50.19,James Gray,Brad Pitt,90000000.0,2019-01-01,104510869.6,0,1,0,0,1,0,1,0,0,0,0,0,1,0,1
+Breakdown,93,"Crime, Drama, Mystery",R,50.13,Jonathan Mostow,Kurt Russell,36000000.0,1997-01-01,66138629.8,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Sicario: Day of the Soldado,122,"Action, Adventure, Crime",R,50.07,Stefano Sollima,Benicio Del Toro,35000000.0,2018-01-01,41273586.2,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+Under Siege 2: Dark Territory,100,"Action, Adventure, Thriller",R,50.02,Geoff Murphy,Steven Seagal,60000000.0,1995-01-01,116685029.9,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+Absolute Power,121,"Action, Crime, Drama",R,50.01,Clint Eastwood,Clint Eastwood,50000000.0,1997-01-01,91859208.0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Dog Day Afternoon,125,"Biography, Crime, Drama",R,50.0,Sidney Lumet,Al Pacino,1800000.0,1975-01-01,10098518.2,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Runaway Jury,127,"Crime, Drama, Thriller",PG-13,49.44,Gary Fleder,John Cusack,60000000.0,2003-01-01,96520418.3,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+Volcano,104,"Action, Drama, Sci-Fi",PG-13,49.32,Mick Jackson,Tommy Lee Jones,90000000.0,1997-01-01,165346574.5,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1
+The Possession,92,"Horror, Mystery, Thriller",PG-13,49.13,Ole Bornedal,Natasha Calis,14000000.0,2012-01-01,18053709.2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Sleepers,147,"Crime, Drama, Thriller",R,49.1,Barry Levinson,Robert De Niro,44000000.0,1996-01-01,83296787.6,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Cobra,87,"Action, Crime, Thriller",R,49.04,George P. Cosmatos,Sylvester Stallone,25000000.0,1986-01-01,66673357.7,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Michael Clayton,119,"Crime, Drama, Mystery",R,49.03,Tony Gilroy,George Clooney,25000000.0,2007-01-01,36100901.1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Firewall,105,"Action, Crime, Thriller",PG-13,48.75,Richard Loncraine,Harrison Ford,50000000.0,2006-01-01,73700453.9,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Speed 2: Cruise Control,121,"Action, Adventure, Crime",PG-13,48.61,Jan de Bont,Sandra Bullock,160000000.0,1997-01-01,293949465.7,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+Gemini Man,117,"Action, Adventure, Sci-Fi",PG-13,48.55,Ang Lee,Will Smith,138000000.0,2019-01-01,160250000.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+The Game,129,"Drama, Mystery, Thriller",R,48.32,David Fincher,Michael Douglas,50000000.0,1997-01-01,91859208.0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+Tightrope,114,"Crime, Mystery, Thriller",R,48.14,Richard Tuggle,Clint Eastwood,9156000.0,1984-01-01,26263613.1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Sinister,110,"Horror, Mystery, Thriller",R,48.09,Scott Derrickson,Ethan Hawke,3000000.0,2012-01-01,3868652.0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Secret Window,96,"Drama, Mystery, Thriller",PG-13,48.02,David Koepp,Johnny Depp,40000000.0,2004-01-01,63130885.5,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+Agent Cody Banks,102,"Action, Adventure, Comedy",PG,47.94,Harald Zwart,Frankie Muniz,28000000.0,2003-01-01,45042861.9,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+Single White Female,107,"Drama, Thriller",R,47.92,Barbet Schroeder,Bridget Fonda,16000000.0,1992-01-01,33864851.6,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+When a Stranger Calls,87,"Horror, Thriller",PG-13,47.86,Simon West,Camilla Belle,15000000.0,2006-01-01,22110136.2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Premonition,96,"Drama, Fantasy, Mystery",PG-13,47.85,Mennan Yapo,Sandra Bullock,20000000.0,2007-01-01,28880720.9,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1
+The Skeleton Key,104,"Drama, Horror, Mystery",PG-13,47.81,Iain Softley,Kate Hudson,43000000.0,2005-01-01,65908379.7,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1
+The Rundown,104,"Action, Adventure, Comedy",PG-13,47.73,Peter Berg,Dwayne Johnson,85000000.0,2003-01-01,136737259.2,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1
+Demon Slayer the Movie: Mugen Train,117,"Animation, Action, Adventure",R,47.7,Haruo Sotozaki,Natsuki Hanae,21200000.0,2020-01-01,24020820.9,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+New Jack City,97,"Action, Crime, Drama",R,47.62,Mario Van Peebles,Wesley Snipes,8000000.0,1991-01-01,17372719.2,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Into the Storm,89,"Action, Adventure, Drama",PG-13,47.6,Steven Quale,Richard Armitage,50000000.0,2014-01-01,62478838.6,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+The Kingdom,110,"Action, Drama, Thriller",R,47.54,Peter Berg,Jamie Foxx,70000000.0,2007-01-01,101082523.1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+Poltergeist,93,"Horror, Thriller",PG-13,47.43,Gil Kenan,Sam Rockwell,10700000.0,2015-01-01,13382428.4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Hard to Kill,96,"Action, Crime, Drama",R,47.41,Bruce Malmuth,Steven Seagal,11500000.0,1990-01-01,26384646.8,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Munich,164,"Action, Drama, History",R,47.4,Steven Spielberg,Eric Bana,70000000.0,2005-01-01,107292711.1,1,0,0,0,1,0,0,0,1,0,0,0,1,1,0
+Savages,131,"Action, Crime, Drama",R,47.38,Oliver Stone,Aaron Taylor-Johnson,45000000.0,2012-01-01,58029779.6,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Airport 1975,107,"Action, Drama, Thriller",PG,47.29,Jack Smight,Charlton Heston,3000000.0,1974-01-01,18817339.1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+First Blood,93,"Action, Adventure, Thriller",R,47.21,Ted Kotcheff,Sylvester Stallone,15000000.0,1982-01-01,46494591.7,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+Killers,100,"Action, Comedy, Romance",PG-13,47.06,Robert Luketic,Katherine Heigl,75000000.0,2010-01-01,101169890.2,1,0,0,0,0,0,0,1,0,0,0,1,1,0,1
+Shooter,124,"Action, Drama, Thriller",R,47.0,Antoine Fuqua,Mark Wahlberg,61000000.0,2007-01-01,88086198.7,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+Halloween,91,"Horror, Thriller",R,47.0,John Carpenter,Donald Pleasence,325000.0,1978-01-01,1519939.2,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Final Destination 2,90,"Horror, Thriller",R,46.96,David R. Ellis,A.J. Cook,26000000.0,2003-01-01,41825514.6,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Sicario,121,"Action, Crime, Drama",R,46.89,Denis Villeneuve,Emily Blunt,30000000.0,2015-01-01,37520827.4,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Red Sparrow,140,"Action, Drama, Thriller",R,46.87,Francis Lawrence,Jennifer Lawrence,69000000.0,2018-01-01,81367927.2,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+The River Wild,111,"Adventure, Crime, Thriller",PG-13,46.82,Curtis Hanson,Meryl Streep,45000000.0,1994-01-01,89967989.1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+The Spy Who Loved Me,125,"Action, Adventure, Thriller",PG,46.8,Lewis Gilbert,Roger Moore,13500000.0,1977-01-01,67452923.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Boogeyman,89,"Drama, Horror, Mystery",PG-13,46.75,Stephen Kay,Barry Watson,20000000.0,2005-01-01,30655060.3,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1
+Firefox,136,"Action, Adventure, Thriller",PG,46.71,Clint Eastwood,Clint Eastwood,21000000.0,1982-01-01,65092428.4,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Colors,120,"Action, Crime, Drama",R,46.62,Dennis Hopper,Sean Penn,6000000.0,1988-01-01,15157960.2,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Phone Booth,81,"Crime, Thriller",R,46.57,Joel Schumacher,Colin Farrell,13000000.0,2002-01-01,21455945.8,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+The Legend of Zorro,129,"Action, Adventure, Romance",PG,46.46,Martin Campbell,Antonio Banderas,75000000.0,2005-01-01,114956476.1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0
+Breaking In,88,"Action, Thriller",PG-13,46.38,James McTeigue,Gabrielle Union,6000000.0,2018-01-01,7075471.9,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Black Rain,125,"Action, Crime, Thriller",R,46.21,Ridley Scott,Michael Douglas,30000000.0,1989-01-01,72410239.5,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+The Enforcer,96,"Action, Crime, Thriller",R,46.2,James Fargo,Clint Eastwood,9000000.0,1976-01-01,47314100.7,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Malice,107,"Crime, Mystery, Thriller",R,46.04,Harold Becker,Alec Baldwin,20000000.0,1993-01-01,40995231.4,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Marked for Death,93,"Action, Crime, Drama",R,46.04,Dwight H. Little,Steven Seagal,12000000.0,1990-01-01,27531805.3,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Gangster Squad,113,"Action, Crime, Drama",R,46.0,Ruben Fleischer,Sean Penn,60000000.0,2013-01-01,76158415.8,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Rainmaker,135,"Crime, Drama, Thriller",PG-13,45.86,Francis Ford Coppola,Matt Damon,40000000.0,1997-01-01,73487366.4,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+Underworld: Rise of the Lycans,92,"Action, Fantasy, Thriller",R,45.8,Patrick Tatopoulos,Rhona Mitra,35000000.0,2009-01-01,48452281.2,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+RoboCop 2,117,"Action, Crime, Sci-Fi",R,45.68,Irvin Kershner,Peter Weller,25000000.0,1990-01-01,57357927.8,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0
+The Great Wall,103,"Action, Adventure, Fantasy",PG-13,45.54,Yimou Zhang,Matt Damon,150000000.0,2016-01-01,185063060.3,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1
+Jaws 3-D,99,"Adventure, Horror, Thriller",PG,45.52,Joe Alves,Dennis Quaid,20500000.0,1983-01-01,61268589.0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+Ma,99,"Horror, Mystery, Thriller",R,45.37,Tate Taylor,Octavia Spencer,5000000.0,2019-01-01,5806159.4,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Domestic Disturbance,89,"Crime, Thriller",PG-13,45.25,Harold Becker,John Travolta,75000000.0,2001-01-01,125198172.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+The Giver,97,"Drama, Romance, Sci-Fi",PG-13,45.09,Phillip Noyce,Brenton Thwaites,25000000.0,2014-01-01,31239419.3,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1
+28 Days Later...,113,"Drama, Horror, Sci-Fi",R,45.06,Danny Boyle,Cillian Murphy,8000000.0,2002-01-01,13203658.9,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0
+Frequency,118,"Crime, Drama, Mystery",PG-13,45.01,Gregory Hoblit,Dennis Quaid,31000000.0,2000-01-01,53679952.6,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Foul Play,116,"Comedy, Mystery, Thriller",PG,45.0,Colin Higgins,Goldie Hawn,5000000.0,1978-01-01,23383680.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Den of Thieves,140,"Action, Crime, Drama",R,44.95,Christian Gudegast,Gerard Butler,30000000.0,2018-01-01,35377359.6,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+xXx: Return of Xander Cage,107,"Action, Adventure, Comedy",PG-13,44.9,D.J. Caruso,Vin Diesel,85000000.0,2017-01-01,102311243.3,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1
+Cop Land,105,"Crime, Drama, Thriller",R,44.89,James Mangold,Sylvester Stallone,15000000.0,1997-01-01,27557762.4,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Timecop,99,"Action, Crime, Sci-Fi",R,44.85,Peter Hyams,Jean-Claude Van Damme,27000000.0,1994-01-01,53980793.4,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0
+The Good Son,87,"Drama, Thriller",R,44.59,Joseph Ruben,Macaulay Culkin,17000000.0,1993-01-01,34845946.7,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+The Forever Purge,103,"Action, Horror, Thriller",R,44.54,Everardo Gout,Ana de la Reguera,18000000.0,2021-01-01,20113494.0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0
+The Negotiator,140,"Action, Crime, Drama",R,44.48,F. Gary Gray,Samuel L. Jackson,50000000.0,1998-01-01,90438118.8,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+47 Meters Down,89,"Adventure, Drama, Horror",PG-13,44.31,Johannes Roberts,Mandy Moore,5300000.0,2017-01-01,6379406.9,0,1,0,0,1,1,0,0,0,0,0,0,1,0,1
+Hereditary,127,"Drama, Horror, Mystery",R,44.07,Ari Aster,Toni Collette,10000000.0,2018-01-01,11792453.2,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0
+Passenger 57,84,"Action, Crime, Thriller",R,44.07,Kevin Hooks,Wesley Snipes,15000000.0,1992-01-01,31748298.3,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+The One,87,"Action, Sci-Fi, Thriller",PG-13,43.91,James Wong,Jet Li,49000000.0,2001-01-01,81796139.3,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Diamonds Are Forever,120,"Action, Adventure, Thriller",PG,43.82,Guy Hamilton,Sean Connery,7200000.0,1971-01-01,52877668.3,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+The Lovely Bones,135,"Drama, Fantasy, Thriller",PG-13,43.82,Peter Jackson,Rachel Weisz,65000000.0,2009-01-01,89982807.9,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1
+The Gift,108,"Drama, Mystery, Thriller",R,43.77,Joel Edgerton,Jason Bateman,5000000.0,2015-01-01,6253471.2,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+Tears of the Sun,121,"Action, Drama, Thriller",R,43.73,Antoine Fuqua,Bruce Willis,75000000.0,2003-01-01,120650522.8,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+Need for Speed,132,"Action, Crime, Thriller",PG-13,43.58,Scott Waugh,Aaron Paul,66000000.0,2014-01-01,82472066.9,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Acrimony,120,"Drama, Horror, Romance",R,43.55,Tyler Perry,Taraji P. Henson,20000000.0,2018-01-01,23584906.4,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0
+Everest,121,"Action, Adventure, Biography",PG-13,43.48,Baltasar Kormákur,Jason Clarke,55000000.0,2015-01-01,68788183.5,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1
+Edge of Darkness,117,"Action, Crime, Drama",R,43.31,Martin Campbell,Mel Gibson,80000000.0,2010-01-01,107914549.6,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Star Trek: Nemesis,116,"Action, Adventure, Sci-Fi",PG-13,43.25,Stuart Baird,Patrick Stewart,60000000.0,2002-01-01,99027442.1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Point Break,122,"Action, Crime, Thriller",R,43.22,Kathryn Bigelow,Patrick Swayze,24000000.0,1991-01-01,52118157.5,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Transporter 2,87,"Action, Crime, Thriller",PG-13,43.1,Louis Leterrier,Jason Statham,32000000.0,2005-01-01,49048096.5,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+You Only Live Twice,117,"Action, Adventure, Thriller",PG,43.08,Lewis Gilbert,Sean Connery,9500000.0,1967-01-01,84401580.5,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Reign of Fire,101,"Action, Adventure, Fantasy",PG-13,43.06,Rob Bowman,Matthew McConaughey,60000000.0,2002-01-01,99027442.1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1
+John Wick,101,"Action, Crime, Thriller",R,43.04,Chad Stahelski,David Leitch,20000000.0,2014-01-01,24991535.4,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Escape from Alcatraz,112,"Action, Biography, Crime",PG,43.0,Don Siegel,Clint Eastwood,8000000.0,1979-01-01,34236720.4,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+Snitch,112,"Action, Drama, Thriller",PG-13,42.93,Ric Roman Waugh,Dwayne Johnson,15000000.0,2013-01-01,19039604.0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+The Devil's Own,111,"Action, Crime, Drama",R,42.87,Alan J. Pakula,Harrison Ford,90000000.0,1997-01-01,165346574.5,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Rambo,92,"Action, Adventure, Thriller",R,42.75,Sylvester Stallone,Sylvester Stallone,50000000.0,2008-01-01,69238203.5,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+The Unborn,88,"Horror, Mystery, Thriller",PG-13,42.67,David S. Goyer,Odette Annable,16000000.0,2009-01-01,22149614.2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Beverly Hills Cop III,104,"Action, Comedy, Crime",R,42.61,John Landis,Eddie Murphy,50000000.0,1994-01-01,99964432.3,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Final Destination 5,92,"Horror, Thriller",R,42.59,Steven Quale,Nicholas D'Agosto,40000000.0,2011-01-01,53090912.4,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Widows,129,"Crime, Drama, Thriller",R,42.4,Steve McQueen,Viola Davis,42000000.0,2018-01-01,49528303.5,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Resident Evil: Retribution,95,"Action, Horror, Sci-Fi",R,42.35,Paul W.S. Anderson,Milla Jovovich,65000000.0,2012-01-01,83820792.8,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0
+Blue Thunder,109,"Action, Crime, Drama",R,42.31,John Badham,Roy Scheider,22000000.0,1983-01-01,65751656.4,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Bullitt,114,"Action, Crime, Thriller",M/PG,42.3,Peter Yates,Steve McQueen,5500000.0,1968-01-01,47144516.1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+Lady in the Water,110,"Drama, Fantasy, Mystery",PG-13,42.29,M. Night Shyamalan,Paul Giamatti,70000000.0,2006-01-01,103180635.4,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1
+Mortal Kombat,110,"Action, Adventure, Fantasy",R,42.2,Simon McQuoid,Lewis Tan,55000000.0,2021-01-01,61457898.5,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0
+The Cabin in the Woods,95,"Horror, Mystery, Thriller",R,42.07,Drew Goddard,Kristen Connolly,30000000.0,2011-01-01,39818184.3,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Riddick,119,"Action, Adventure, Sci-Fi",R,42.03,David Twohy,Vin Diesel,38000000.0,2013-01-01,48233663.4,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0
+Exorcist: The Beginning,114,"Horror, Mystery, Thriller",R,41.82,Renny Harlin,Stellan Skarsgård,80000000.0,2004-01-01,126261771.1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Aliens vs. Predator: Requiem,94,"Action, Adventure, Horror",R,41.8,Colin Strause,Greg Strause,40000000.0,2007-01-01,57761441.8,1,1,0,0,0,1,0,0,0,0,0,0,1,1,0
+The Hills Have Eyes,107,"Horror, Thriller",R,41.78,Alexandre Aja,Ted Levine,15000000.0,2006-01-01,22110136.2,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Ronin,122,"Action, Crime, Thriller",R,41.62,John Frankenheimer,Robert De Niro,55000000.0,1998-01-01,99481930.7,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Orphan,123,"Horror, Mystery, Thriller",R,41.6,Jaume Collet-Serra,Vera Farmiga,12871000.0,2009-01-01,17817980.3,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+High Crimes,115,"Crime, Drama, Mystery",PG-13,41.54,Carl Franklin,Jim Caviezel,42000000.0,2002-01-01,69319209.5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Three Days of the Condor,117,"Crime, Mystery, Thriller",R,41.51,Sydney Pollack,Robert Redford,20000000.0,1975-01-01,112205758.2,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Truth or Dare,100,"Horror, Thriller",PG-13,41.41,Jeff Wadlow,Lucy Hale,3500000.0,2018-01-01,4127358.6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Tequila Sunrise,115,"Crime, Drama, Romance",R,41.29,Robert Towne,Mel Gibson,23000000.0,1988-01-01,58105514.3,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0
+The Peacemaker,124,"Action, Thriller",R,41.26,Mimi Leder,George Clooney,50000000.0,1997-01-01,91859208.0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Money Talks,97,"Action, Comedy, Crime",R,41.07,Brett Ratner,Charlie Sheen,25000000.0,1997-01-01,45929604.0,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+The Last Exorcism,87,"Horror, Mystery, Thriller",PG-13,41.03,Daniel Stamm,Patrick Fabian,1800000.0,2010-01-01,2428077.4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Money Monster,98,"Crime, Drama, Mystery",R,41.01,Jodie Foster,George Clooney,27000000.0,2016-01-01,33311350.9,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+End of Watch,109,"Action, Adventure, Crime",R,41.0,David Ayer,Jake Gyllenhaal,7000000.0,2012-01-01,9026854.6,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+The Siege,116,"Action, Thriller",R,40.98,Edward Zwick,Denzel Washington,70000000.0,1998-01-01,126613366.3,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+The Ides of March,101,"Drama, Thriller",R,40.96,George Clooney,Paul Giamatti,12500000.0,2011-01-01,16590910.1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Out of Time,105,"Crime, Drama, Mystery",PG-13,40.91,Carl Franklin,Denzel Washington,50000000.0,2003-01-01,80433681.9,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Falling Down,113,"Action, Crime, Drama",R,40.9,Joel Schumacher,Michael Douglas,25000000.0,1993-01-01,51244039.3,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+House on Haunted Hill,93,"Crime, Fantasy, Horror",R,40.85,William Malone,Geoffrey Rush,37000000.0,1999-01-01,65824418.7,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0
+Absence of Malice,116,"Drama, Romance, Thriller",PG,40.72,Sydney Pollack,Paul Newman,12000000.0,1981-01-01,40316689.7,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+Max Payne,100,"Action, Adventure, Crime",PG-13,40.69,John Moore,Mark Wahlberg,35000000.0,2008-01-01,48466742.5,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+Duplicity,125,"Comedy, Crime, Romance",PG-13,40.57,Tony Gilroy,Julia Roberts,60000000.0,2009-01-01,83061053.4,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1
+Ghost in the Shell,107,"Action, Crime, Drama",PG-13,40.56,Rupert Sanders,Scarlett Johansson,110000000.0,2017-01-01,132402785.4,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1
+Jagged Edge,108,"Drama, Mystery, Thriller",R,40.5,Richard Marquand,Jeff Bridges,15000000.0,1985-01-01,41558673.0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+Hanna,111,"Action, Adventure, Drama",PG-13,40.26,Joe Wright,Saoirse Ronan,30000000.0,2011-01-01,39818184.3,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+Mo' Money,89,"Action, Comedy, Crime",R,40.23,Peter MacDonald,Damon Wayans,10000000.0,1992-01-01,21165532.2,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+2010: The Year We Make Contact,116,"Adventure, Mystery, Sci-Fi",PG,40.2,Peter Hyams,Roy Scheider,28000000.0,1984-01-01,80316859.7,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0
+Allied,124,"Action, Drama, Romance",R,40.1,Robert Zemeckis,Brad Pitt,85000000.0,2016-01-01,104869067.5,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0
+Righteous Kill,101,"Crime, Mystery, Thriller",R,40.08,Jon Avnet,Robert De Niro,60000000.0,2008-01-01,83085844.2,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Collateral Damage,108,"Action, Drama, Thriller",R,40.08,Andrew Davis,Arnold Schwarzenegger,85000000.0,2002-01-01,140288876.3,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+Enough,115,"Crime, Drama, Thriller",PG-13,40.01,Michael Apted,Jennifer Lopez,38000000.0,2002-01-01,62717380.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+The Illusionist,110,"Drama, Fantasy, Mystery",PG-13,39.87,Neil Burger,Edward Norton,16500000.0,2006-01-01,24321149.8,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1
+The Ladykillers,104,"Comedy, Crime, Thriller",R,39.8,Ethan Coen,Joel Coen,35000000.0,2004-01-01,55239524.8,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+The Beach,119,"Adventure, Drama, Romance",R,39.79,Danny Boyle,Leonardo DiCaprio,50000000.0,2000-01-01,86580568.7,0,1,0,0,1,0,0,0,0,0,0,1,1,1,0
+Friday the 13th,95,"Horror, Mystery, Thriller",R,39.75,Sean S. Cunningham,Betsy Palmer,550000.0,1980-01-01,2066359.9,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Hitman,100,"Action, Crime, Thriller",R,39.69,Xavier Gens,Timothy Olyphant,24000000.0,2007-01-01,34656865.1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Jackie Brown,154,"Crime, Drama, Thriller",R,39.67,Quentin Tarantino,Pam Grier,12000000.0,1997-01-01,22046209.9,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Out for Justice,91,"Action, Crime, Drama",R,39.67,John Flynn,Steven Seagal,14000000.0,1991-01-01,30402258.5,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+30 Days of Night,113,"Action, Horror, Thriller",R,39.57,David Slade,Josh Hartnett,30000000.0,2007-01-01,43321081.3,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0
+The Texas Chainsaw Massacre: The Beginning,91,"Horror, Thriller",R,39.52,Jonathan Liebesman,Jordana Brewster,16000000.0,2006-01-01,23584145.2,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Body of Lies,128,"Action, Drama, Thriller",R,39.39,Ridley Scott,Leonardo DiCaprio,70000000.0,2008-01-01,96933484.9,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+The Expendables 3,126,"Action, Adventure, Thriller",PG-13,39.32,Patrick Hughes,Sylvester Stallone,80000000.0,2014-01-01,99966141.7,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Lakeview Terrace,110,"Crime, Drama, Thriller",PG-13,39.26,Neil LaBute,Samuel L. Jackson,20000000.0,2008-01-01,27695281.4,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+Pitch Black,109,"Action, Horror, Sci-Fi",R,39.24,David Twohy,Radha Mitchell,23000000.0,2000-01-01,39827061.6,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0
+The Grudge 2,102,"Horror, Thriller",PG-13,39.14,Takashi Shimizu,Amber Tamblyn,20000000.0,2006-01-01,29480181.5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+The Crazies,101,"Horror, Mystery, Thriller",R,39.12,Breck Eisner,Radha Mitchell,20000000.0,2010-01-01,26978637.4,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Fracture,113,"Crime, Drama, Thriller",R,39.02,Gregory Hoblit,Anthony Hopkins,11180000.0,2007-01-01,16144323.0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Crawl,87,"Action, Adventure, Horror",R,39.01,Alexandre Aja,Kaya Scodelario,13500000.0,2019-01-01,15676630.4,1,1,0,0,0,1,0,0,0,0,0,0,1,1,0
+The Ghost and the Darkness,110,"Adventure, Drama, Thriller",R,38.62,Stephen Hopkins,Michael Douglas,55000000.0,1996-01-01,104120984.5,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0
+On Deadly Ground,101,"Action, Adventure, Thriller",R,38.59,Steven Seagal,Steven Seagal,50000000.0,1994-01-01,99964432.3,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+Nerve,96,"Action, Adventure, Crime",PG-13,38.58,Henry Joost,Ariel Schulman,19000000.0,2016-01-01,23441321.0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+Surrogates,89,"Action, Sci-Fi, Thriller",PG-13,38.58,Jonathan Mostow,Bruce Willis,80000000.0,2009-01-01,110748071.2,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Running Scared,107,"Action, Comedy, Crime",R,38.5,Peter Hyams,Gregory Hines,5227000.0,1986-01-01,13940065.6,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Midnight Run,126,"Action, Comedy, Crime",R,38.41,Martin Brest,Robert De Niro,35000000.0,1988-01-01,88421434.7,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Red Dawn,114,"Action, Drama, Thriller",PG-13,38.38,John Milius,Patrick Swayze,17000000.0,1984-01-01,48763807.7,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+Higher Learning,128,"Crime, Drama, Thriller",R,38.29,John Singleton,Omar Epps,13270000.0,1995-01-01,25806839.1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+The In-Laws,103,"Action, Adventure, Comedy",PG,38.2,Arthur Hiller,Peter Falk,9000000.0,1979-01-01,38516310.4,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+Mighty Morphin Power Rangers: The Movie,95,"Action, Adventure, Family",PG,38.19,Bryan Spicer,Karan Ashley,20000000.0,1995-01-01,38895010.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+The Running Man,101,"Action, Sci-Fi, Thriller",R,38.12,Paul Michael Glaser,Arnold Schwarzenegger,27000000.0,1987-01-01,70971151.1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+Ninja Assassin,99,"Action, Thriller",R,38.11,James McTeigue,Rain,40000000.0,2009-01-01,55374035.6,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Urban Legend,99,"Horror, Mystery, Thriller",R,38.07,Jamie Blanks,Jared Leto,14000000.0,1998-01-01,25322673.3,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Jigsaw,92,"Action, Adventure, Crime",R,38.05,Michael Spierig,Peter Spierig,10000000.0,2017-01-01,12036616.9,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+Dead Again,107,"Crime, Drama, Mystery",R,38.02,Kenneth Branagh,Kenneth Branagh,15000000.0,1991-01-01,32573848.4,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+The Brothers Grimm,118,"Action, Adventure, Comedy",PG-13,37.92,Terry Gilliam,Matt Damon,88000000.0,2005-01-01,134882265.3,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1
+The Dead Pool,91,"Action, Crime, Mystery",R,37.9,Buddy Van Horn,Clint Eastwood,31000000.0,1988-01-01,78316127.9,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0
+Sky Captain and the World of Tomorrow,106,"Action, Adventure, Mystery",PG,37.76,Kerry Conran,Gwyneth Paltrow,70000000.0,2004-01-01,110479049.7,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+Red Riding Hood,100,"Fantasy, Horror, Mystery",PG-13,37.66,Catherine Hardwicke,Amanda Seyfried,42000000.0,2011-01-01,55745458.0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1
+Out of Sight,123,"Comedy, Crime, Drama",R,37.56,Steven Soderbergh,George Clooney,48000000.0,1998-01-01,86820594.1,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+In Time,109,"Action, Sci-Fi, Thriller",PG-13,37.52,Andrew Niccol,Justin Timberlake,40000000.0,2011-01-01,53090912.4,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Man of the Year,115,"Comedy, Drama, Romance",PG-13,37.44,Barry Levinson,Robin Williams,20000000.0,2006-01-01,29480181.5,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1
+The Roommate,91,Thriller,PG-13,37.3,Christian E. Christiansen,Minka Kelly,16000000.0,2011-01-01,21236365.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Sphere,134,"Action, Mystery, Sci-Fi",PG-13,37.02,Barry Levinson,Dustin Hoffman,80000000.0,1998-01-01,144700990.1,1,0,1,0,0,0,1,0,0,0,0,0,1,0,1
+State of Play,127,"Crime, Drama, Mystery",PG-13,37.02,Kevin Macdonald,Russell Crowe,60000000.0,2009-01-01,83061053.4,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Clockstoppers,94,"Action, Adventure, Comedy",PG,36.99,Jonathan Frakes,Jesse Bradford,26000000.0,2002-01-01,42911891.6,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+Carlito's Way,144,"Crime, Drama, Thriller",R,36.95,Brian De Palma,Al Pacino,30000000.0,1993-01-01,61492847.1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+The Family,111,"Comedy, Crime, Thriller",R,36.92,Luc Besson,Robert De Niro,30000000.0,2013-01-01,38079207.9,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Matchstick Men,116,"Comedy, Crime, Drama",PG-13,36.91,Ridley Scott,Nicolas Cage,62000000.0,2003-01-01,99737765.5,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1
+16 Blocks,102,"Action, Drama, Thriller",PG-13,36.9,Richard Donner,Bruce Willis,52000000.0,2006-01-01,76648472.0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+Just Cause,102,"Action, Crime, Drama",R,36.85,Arne Glimcher,Sean Connery,10607000.0,1995-01-01,20627968.5,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Kiss of the Dragon,98,"Action, Crime, Thriller",R,36.85,Chris Nahon,Jet Li,25000000.0,2001-01-01,41732724.2,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+The Brave One,122,"Action, Crime, Drama",R,36.79,Neil Jordan,Jodie Foster,70000000.0,2007-01-01,101082523.1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Rear Window,112,"Mystery, Thriller",PG,36.76,Alfred Hitchcock,James Stewart,1000000.0,1954-01-01,10866022.3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+The Getaway,123,"Action, Crime, Thriller",PG,36.73,Sam Peckinpah,Steve McQueen,3352000.0,1972-01-01,23838836.8,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+Alive,120,"Biography, Drama, Thriller",R,36.73,Frank Marshall,Ethan Hawke,32000000.0,1993-01-01,65592370.3,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+Friday the 13th Part III,95,"Horror, Thriller",R,36.69,Steve Miner,Dana Kimmell,2300000.0,1982-01-01,7129170.7,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Colombiana,108,"Action, Drama, Thriller",PG-13,36.67,Olivier Megaton,Zoe Saldana,40000000.0,2011-01-01,53090912.4,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+8MM,123,"Crime, Drama, Mystery",R,36.66,Joel Schumacher,Nicolas Cage,40000000.0,1999-01-01,71161533.8,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Taxi,97,"Action, Comedy, Crime",PG-13,36.61,Tim Story,Queen Latifah,25000000.0,2004-01-01,39456803.5,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+The 'Burbs,102,"Comedy, Mystery, Thriller",PG,36.6,Joe Dante,Tom Hanks,18000000.0,1989-01-01,43446143.7,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+The Commuter,104,"Action, Mystery, Thriller",PG-13,36.34,Jaume Collet-Serra,Liam Neeson,30000000.0,2018-01-01,35377359.6,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+Death Race,105,"Action, Sci-Fi, Thriller",R,36.32,Paul W.S. Anderson,Jason Statham,45000000.0,2008-01-01,62314383.2,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+Sliver,107,"Drama, Thriller",R,36.3,Phillip Noyce,Sharon Stone,40000000.0,1993-01-01,81990462.8,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+The Sentinel,108,"Action, Crime, Thriller",PG-13,36.28,Clark Johnson,Michael Douglas,60000000.0,2006-01-01,88440544.6,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+The Nice Guys,116,"Action, Comedy, Crime",R,36.26,Shane Black,Russell Crowe,50000000.0,2016-01-01,61687686.8,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+The 15:17 to Paris,94,"Biography, Drama, Thriller",PG-13,36.25,Clint Eastwood,Alek Skarlatos,30000000.0,2018-01-01,35377359.6,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+American Assassin,111,"Action, Thriller",R,36.25,Michael Cuesta,Dylan O'Brien,33000000.0,2017-01-01,39720835.6,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Mile 22,94,"Action, Thriller",R,36.11,Peter Berg,Mark Wahlberg,50000000.0,2018-01-01,58962266.1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Set It Off,123,"Action, Crime, Drama",R,36.05,F. Gary Gray,Jada Pinkett Smith,9000000.0,1996-01-01,17037979.3,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Derailed,108,"Crime, Drama, Thriller",R,36.02,Mikael Håfström,Clive Owen,22000000.0,2005-01-01,33720566.3,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Mortal Kombat: Annihilation,95,"Action, Adventure, Fantasy",PG-13,35.93,John R. Leonetti,Robin Shou,30000000.0,1997-01-01,55115524.8,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1
+Dirty Harry,102,"Action, Crime, Thriller",R,35.9,Don Siegel,Clint Eastwood,4000000.0,1971-01-01,29376482.4,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+The Boy,97,"Horror, Mystery, Thriller",PG-13,35.82,William Brent Bell,Lauren Cohan,10000000.0,2016-01-01,12337537.4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+The Island,136,"Action, Sci-Fi, Thriller",PG-13,35.82,Michael Bay,Scarlett Johansson,126000000.0,2005-01-01,193126879.9,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+National Security,88,"Action, Comedy, Crime",PG-13,35.76,Dennis Dugan,Martin Lawrence,14300000.0,2003-01-01,23004033.0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+The Mothman Prophecies,119,"Drama, Horror, Mystery",PG-13,35.75,Mark Pellington,Richard Gere,32000000.0,2002-01-01,52814635.8,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1
+Changeling,141,"Biography, Crime, Drama",R,35.74,Clint Eastwood,Angelina Jolie,55000000.0,2008-01-01,76162023.9,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Smokin' Aces,108,"Action, Comedy, Crime",R,35.66,Joe Carnahan,Jeremy Piven,17000000.0,2006-01-01,25058154.3,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Silkwood,131,"Biography, Drama, History",R,35.62,Mike Nichols,Meryl Streep,10000000.0,1983-01-01,29887116.6,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0
+The American,105,"Action, Crime, Drama",R,35.61,Anton Corbijn,George Clooney,20000000.0,2010-01-01,26978637.4,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Children of Men,109,"Action, Drama, Sci-Fi",R,35.55,Alfonso Cuarón,Julianne Moore,76000000.0,2006-01-01,112024689.9,1,0,1,0,1,0,0,0,0,0,0,0,1,1,0
+No Way Out,114,"Action, Crime, Drama",R,35.51,Roger Donaldson,Kevin Costner,15000000.0,1987-01-01,39428417.3,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Intruder,102,"Crime, Drama, Horror",PG-13,35.42,Deon Taylor,Michael Ealy,8000000.0,2019-01-01,9289855.1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1
+Peppermint,101,"Action, Thriller",R,35.42,Pierre Morel,Jennifer Garner,25000000.0,2018-01-01,29481133.0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+The Gauntlet,109,"Action, Crime, Thriller",R,35.4,Clint Eastwood,Clint Eastwood,5500000.0,1977-01-01,27480820.5,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+The Boy Next Door,91,"Drama, Horror, Romance",R,35.39,Rob Cohen,Jennifer Lopez,4000000.0,2015-01-01,5002777.0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0
+Live and Let Die,121,"Action, Adventure, Thriller",PG,35.38,Guy Hamilton,Roger Moore,7000000.0,1973-01-01,48029859.2,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Money Train,110,"Action, Comedy, Crime",R,35.32,Joseph Ruben,Wesley Snipes,68000000.0,1995-01-01,132243033.9,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Frankenweenie,87,"Animation, Comedy, Drama",PG,35.29,Tim Burton,Winona Ryder,39000000.0,2012-01-01,50292475.7,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Honeymoon in Vegas,96,"Comedy, Romance, Thriller",PG-13,35.21,Andrew Bergman,James Caan,25000000.0,1992-01-01,52913830.6,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1
+The Number 23,98,"Crime, Mystery, Thriller",R,35.19,Joel Schumacher,Jim Carrey,30000000.0,2007-01-01,43321081.3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+K-19: The Widowmaker,138,"Drama, History, Thriller",PG-13,35.17,Kathryn Bigelow,Harrison Ford,100000000.0,2002-01-01,165045736.9,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+Ouija: Origin of Evil,99,"Drama, Horror, Mystery",PG-13,35.14,Mike Flanagan,Elizabeth Reaser,9000000.0,2016-01-01,11103783.6,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1
+Commando,90,"Action, Adventure, Thriller",R,35.1,Mark L. Lester,Arnold Schwarzenegger,10000000.0,1985-01-01,27705782.0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+Green Zone,115,"Action, Drama, Thriller",R,35.05,Paul Greengrass,Matt Damon,100000000.0,2010-01-01,134893186.9,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+The Skulls,106,"Action, Crime, Drama",PG-13,35.05,Rob Cohen,Joshua Jackson,35000000.0,2000-01-01,60606398.1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1
+Midnight Express,121,"Biography, Crime, Drama",R,35.0,Alan Parker,Brad Davis,2300000.0,1978-01-01,10756492.8,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Red Heat,104,"Action, Comedy, Crime",R,34.99,Walter Hill,Arnold Schwarzenegger,29000000.0,1988-01-01,73263474.5,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+The 5th Wave,112,"Action, Adventure, Sci-Fi",PG-13,34.92,J Blakeson,Chloë Grace Moretz,38000000.0,2016-01-01,46882641.9,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+A Thin Line Between Love and Hate,108,"Comedy, Crime, Drama",R,34.75,Martin Lawrence,Martin Lawrence,8000000.0,1996-01-01,15144870.5,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+Psycho II,113,"Crime, Horror, Mystery",R,34.73,Richard Franklin,Anthony Perkins,5000000.0,1983-01-01,14943558.3,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0
+Cradle 2 the Grave,101,"Action, Crime, Drama",R,34.71,Andrzej Bartkowiak,Jet Li,25000000.0,2003-01-01,40216840.9,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Judge Dredd,96,"Action, Crime, Sci-Fi",R,34.69,Danny Cannon,Sylvester Stallone,12291000.0,1995-01-01,23902928.4,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0
+Licence to Kill,133,"Action, Adventure, Thriller",PG-13,34.67,John Glen,Timothy Dalton,32000000.0,1989-01-01,77237588.8,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Hostage,113,"Action, Crime, Drama",R,34.64,Florent-Emilio Siri,Bruce Willis,52000000.0,2005-01-01,79703156.8,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The 6th Day,123,"Action, Mystery, Sci-Fi",PG-13,34.6,Roger Spottiswoode,Arnold Schwarzenegger,82000000.0,2000-01-01,141992132.7,1,0,1,0,0,0,1,0,0,0,0,0,1,0,1
+Mississippi Burning,128,"Crime, Drama, History",R,34.6,Alan Parker,Gene Hackman,15000000.0,1988-01-01,37894900.6,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0
+Forbidden Empire,130,"Adventure, Fantasy, Mystery",Not Rated,34.59,Oleg Stepchenko,Jason Flemyng,26000000.0,2014-01-01,32488996.0,0,1,0,0,0,0,1,0,0,0,1,0,1,1,0
+Thirteen Days,145,"Drama, History, Thriller",PG-13,34.59,Roger Donaldson,Kevin Costner,80000000.0,2000-01-01,138528910.0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+Monster,109,"Biography, Crime, Drama",R,34.47,Patty Jenkins,Charlize Theron,8000000.0,2003-01-01,12869389.1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+The Foreigner,113,"Action, Thriller",R,34.39,Martin Campbell,Katie Leung,35000000.0,2017-01-01,42128159.0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Inferno,121,"Action, Adventure, Crime",PG-13,34.34,Ron Howard,Tom Hanks,75000000.0,2016-01-01,92531530.2,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+Texas Chainsaw,92,"Horror, Thriller",R,34.34,John Luessenhop,Alexandra Daddario,20000000.0,2013-01-01,25386138.6,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+The Hunted,94,"Action, Crime, Drama",R,34.24,William Friedkin,Tommy Lee Jones,55000000.0,2003-01-01,88477050.1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Instinct,126,"Drama, Thriller",R,34.1,Jon Turteltaub,Anthony Hopkins,80000000.0,1999-01-01,142323067.6,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Snakes on a Plane,105,"Action, Adventure, Crime",R,34.02,David R. Ellis,Samuel L. Jackson,33000000.0,2006-01-01,48642299.5,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+Death Wish,107,"Action, Crime, Drama",R,34.02,Eli Roth,Bruce Willis,30000000.0,2018-01-01,35377359.6,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Relic,110,"Horror, Mystery, Sci-Fi",R,33.96,Peter Hyams,Penelope Ann Miller,40000000.0,1997-01-01,73487366.4,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0
+Darkman,96,"Action, Sci-Fi, Thriller",R,33.88,Sam Raimi,Liam Neeson,14000000.0,1990-01-01,32120439.6,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+Wind River,107,"Crime, Drama, Mystery",R,33.8,Taylor Sheridan,Elizabeth Olsen,11000000.0,2017-01-01,13240278.5,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Dreamcatcher,134,"Drama, Horror, Sci-Fi",R,33.72,Lawrence Kasdan,Morgan Freeman,68000000.0,2003-01-01,109389807.4,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0
+Geostorm,109,"Action, Sci-Fi, Thriller",PG-13,33.7,Dean Devlin,Gerard Butler,120000000.0,2017-01-01,144439402.2,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+The Punisher,124,"Action, Crime, Drama",R,33.68,Jonathan Hensleigh,Thomas Jane,33000000.0,2004-01-01,52082980.6,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Gambler,111,"Crime, Drama, Thriller",R,33.68,Rupert Wyatt,Mark Wahlberg,25000000.0,2014-01-01,31239419.3,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Devil,80,"Horror, Mystery, Thriller",PG-13,33.58,John Erick Dowdle,Chris Messina,10000000.0,2010-01-01,13489318.7,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+The Constant Gardener,129,"Drama, Mystery, Romance",R,33.58,Fernando Meirelles,Ralph Fiennes,25000000.0,2005-01-01,38318825.4,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0
+I Spy,97,"Action, Adventure, Comedy",PG-13,33.56,Betty Thomas,Eddie Murphy,70000000.0,2002-01-01,115532015.8,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1
+Street Fighter,102,"Action, Adventure, Comedy",PG-13,33.42,Steven E. de Souza,Jean-Claude Van Damme,35000000.0,1994-01-01,69975102.6,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1
+The Long Kiss Goodnight,121,"Action, Crime, Drama",R,33.33,Renny Harlin,Geena Davis,65000000.0,1996-01-01,123052072.5,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Child's Play,87,"Horror, Thriller",R,33.24,Tom Holland,Catherine Hicks,9000000.0,1988-01-01,22736940.4,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Breach,110,"Biography, Crime, Drama",PG-13,33.23,Billy Ray,Chris Cooper,10500000.0,2007-01-01,15162378.5,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Striptease,115,"Comedy, Crime, Drama",R,33.11,Andrew Bergman,Demi Moore,40000000.0,1996-01-01,75724352.3,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+Zodiac,157,"Crime, Drama, Mystery",R,33.08,David Fincher,Jake Gyllenhaal,65000000.0,2007-01-01,93862342.9,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+The Rite,114,"Drama, Horror, Mystery",PG-13,33.05,Mikael Håfström,Colin O'Donoghue,37000000.0,2011-01-01,49109094.0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1
+Daylight,114,"Action, Adventure, Drama",PG-13,33.02,Rob Cohen,Sylvester Stallone,80000000.0,1996-01-01,151448704.7,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+Dracula 2000,99,"Action, Fantasy, Horror",R,33.02,Patrick Lussier,Gerard Butler,54000000.0,2000-01-01,93507014.2,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0
+Friday the 13th: The Final Chapter,91,"Horror, Thriller",R,32.98,Joseph Zito,Erich Anderson,2600000.0,1984-01-01,7457994.1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Mercury Rising,111,"Action, Crime, Drama",R,32.94,Harold Becker,Bruce Willis,60000000.0,1998-01-01,108525742.6,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Last House on the Left,110,Thriller,R,32.75,Dennis Iliadis,Garret Dillahunt,15000000.0,2009-01-01,20765263.4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Annihilation,115,"Adventure, Drama, Horror",R,32.73,Alex Garland,Natalie Portman,40000000.0,2018-01-01,47169812.8,0,1,0,0,1,1,0,0,0,0,0,0,1,1,0
+Taking Lives,103,"Crime, Mystery, Thriller",R,32.68,D.J. Caruso,Angelina Jolie,45000000.0,2004-01-01,71022246.2,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Don't Breathe 2,98,"Action, Crime, Thriller",R,32.64,Rodo Sayagues,Stephen Lang,10622000.0,2021-01-01,11869196.3,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Proof of Life,135,"Action, Drama, Thriller",R,32.6,Taylor Hackford,Meg Ryan,65000000.0,2000-01-01,112554739.3,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+Hard Target,97,"Action, Crime, Thriller",R,32.59,John Woo,Jean-Claude Van Damme,18000000.0,1993-01-01,36895708.3,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Darkness Falls,86,"Fantasy, Horror, Mystery",PG-13,32.55,Jonathan Liebesman,Chaney Kley,11000000.0,2003-01-01,17695410.0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1
+Unfriended,83,"Horror, Mystery, Thriller",R,32.48,Levan Gabriadze,Heather Sossaman,1000000.0,2014-01-01,1249576.8,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Bride of Chucky,89,"Comedy, Horror, Thriller",R,32.4,Ronny Yu,Jennifer Tilly,25000000.0,1998-01-01,45219059.4,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Rumble in the Bronx,87,"Action, Comedy, Crime",R,32.39,Stanley Tong,Jackie Chan,7500000.0,1995-01-01,14585628.7,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Nightcrawler,117,"Crime, Drama, Thriller",R,32.38,Dan Gilroy,Jake Gyllenhaal,8500000.0,2014-01-01,10621402.6,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Anacondas: The Hunt for the Blood Orchid,97,"Action, Adventure, Horror",PG-13,32.24,Dwight H. Little,Morris Chestnut,20000000.0,2004-01-01,31565442.8,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1
+Side Effects,106,"Crime, Drama, Mystery",R,32.17,Steven Soderbergh,Rooney Mara,30000000.0,2013-01-01,38079207.9,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Cold Pursuit,119,"Action, Comedy, Crime",R,32.14,Hans Petter Moland,Liam Neeson,60000000.0,2019-01-01,69673913.0,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Stealth,121,"Action, Adventure, Sci-Fi",PG-13,32.12,Rob Cohen,Josh Lucas,135000000.0,2005-01-01,206921657.1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+House of Wax,113,"Horror, Thriller",R,32.06,Jaume Collet-Serra,Chad Michael Murray,40000000.0,2005-01-01,61310120.6,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+The Shadow,108,"Action, Adventure, Crime",PG-13,32.06,Russell Mulcahy,Alec Baldwin,25000000.0,1994-01-01,49982216.1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+Copycat,123,"Drama, Mystery, Thriller",R,32.05,Jon Amiel,Sigourney Weaver,20000000.0,1995-01-01,38895010.0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+Cellular,94,"Action, Crime, Thriller",PG-13,32.0,David R. Ellis,Kim Basinger,25000000.0,2004-01-01,39456803.5,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Psycho,109,"Horror, Mystery, Thriller",R,32.0,Alfred Hitchcock,Anthony Perkins,806000.0,1960-01-01,8040634.0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Metro,117,"Action, Comedy, Crime",R,31.99,Thomas Carter,Eddie Murphy,55000000.0,1997-01-01,101045128.8,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Murder by Numbers,115,"Crime, Mystery, Thriller",R,31.95,Barbet Schroeder,Sandra Bullock,50000000.0,2002-01-01,82522868.4,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Dressed to Kill,104,"Crime, Drama, Mystery",R,31.9,Brian De Palma,Michael Caine,6500000.0,1980-01-01,24420617.0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Patriots Day,133,"Action, Crime, Drama",R,31.89,Peter Berg,Mark Wahlberg,45000000.0,2016-01-01,55518918.1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Push,111,"Action, Sci-Fi, Thriller",PG-13,31.81,Paul McGuigan,Camilla Belle,38000000.0,2009-01-01,52605333.8,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Transporter 3,104,"Action, Crime, Thriller",PG-13,31.72,Olivier Megaton,Jason Statham,30000000.0,2008-01-01,41542922.1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Quarantine,89,"Horror, Sci-Fi, Thriller",R,31.69,John Erick Dowdle,Jennifer Carpenter,12000000.0,2008-01-01,16617168.8,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+House at the End of the Street,101,"Drama, Horror, Thriller",PG-13,31.61,Mark Tonderai,Jennifer Lawrence,10000000.0,2012-01-01,12895506.6,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+From Hell,122,"Horror, Mystery, Thriller",R,31.6,Albert Hughes,Allen Hughes,35000000.0,2001-01-01,58425813.8,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+One Hour Photo,96,"Drama, Thriller",R,31.6,Mark Romanek,Robin Williams,12000000.0,2002-01-01,19805488.4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Chappie,120,"Action, Crime, Drama",R,31.57,Neill Blomkamp,Sharlto Copley,49000000.0,2015-01-01,61284018.0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+United 93,111,"Action, Drama, History",R,31.57,Paul Greengrass,David Alan Basche,15000000.0,2006-01-01,22110136.2,1,0,0,0,1,0,0,0,1,0,0,0,1,1,0
+A History of Violence,96,"Action, Crime, Drama",R,31.49,David Cronenberg,Viggo Mortensen,32000000.0,2005-01-01,49048096.5,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Adrift,96,"Action, Adventure, Biography",PG-13,31.45,Baltasar Kormákur,Shailene Woodley,35000000.0,2018-01-01,41273586.2,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1
+The Core,135,"Action, Adventure, Sci-Fi",PG-13,31.19,Jon Amiel,Aaron Eckhart,60000000.0,2003-01-01,96520418.3,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+The Debt,113,"Drama, Thriller",R,31.18,John Madden,Helen Mirren,20000000.0,2010-01-01,26978637.4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+A Perfect World,138,"Crime, Drama, Thriller",PG-13,31.16,Clint Eastwood,Kevin Costner,30000000.0,1993-01-01,61492847.1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+Crimson Peak,119,"Drama, Horror, Mystery",R,31.09,Guillermo del Toro,Mia Wasikowska,55000000.0,2015-01-01,68788183.5,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0
+High Anxiety,94,"Comedy, Mystery, Thriller",PG,31.06,Mel Brooks,Mel Brooks,4000000.0,1977-01-01,19986051.3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Nuts,116,"Drama, Thriller",R,30.95,Martin Ritt,Barbra Streisand,25000000.0,1987-01-01,65714028.8,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Powder,111,"Drama, Fantasy, Mystery",PG-13,30.86,Victor Salva,Mary Steenburgen,9500000.0,1995-01-01,18475129.7,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1
+Robin Hood,116,"Action, Adventure, Drama",PG-13,30.82,Otto Bathurst,Taron Egerton,100000000.0,2018-01-01,117924532.1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+I Love Trouble,123,"Action, Comedy, Romance",PG,30.81,Charles Shyer,Nick Nolte,45000000.0,1994-01-01,89967989.1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0
+Kidnap,95,"Action, Crime, Drama",R,30.72,Luis Prieto,Halle Berry,21000000.0,2017-01-01,25276895.4,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+3 Days to Kill,117,"Action, Drama, Thriller",PG-13,30.7,McG,Kevin Costner,28000000.0,2014-01-01,34988149.6,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+Open Water,79,"Adventure, Drama, Horror",R,30.61,Chris Kentis,Blanchard Ryan,500000.0,2003-01-01,804336.8,0,1,0,0,1,1,0,0,0,0,0,0,1,1,0
+Deliver Us from Evil,118,"Action, Adventure, Crime",R,30.58,Scott Derrickson,Eric Bana,30000000.0,2014-01-01,37487303.1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+Slender Man,93,"Horror, Mystery, Thriller",PG-13,30.57,Sylvain White,Joey King,10000000.0,2018-01-01,11792453.2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Uncommon Valor,105,"Action, Drama, Thriller",R,30.5,Ted Kotcheff,Gene Hackman,14500000.0,1983-01-01,43336319.0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+Halloween: Resurrection,94,"Horror, Thriller",R,30.35,Rick Rosenthal,Jamie Lee Curtis,13000000.0,2002-01-01,21455945.8,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+The Mountain Between Us,112,"Action, Adventure, Drama",PG-13,30.35,Hany Abu-Assad,Kate Winslet,35000000.0,2017-01-01,42128159.0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+Assassins,133,"Action, Crime, Thriller",R,30.31,Richard Donner,Sylvester Stallone,50000000.0,1995-01-01,97237525.0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Life,104,"Horror, Sci-Fi, Thriller",R,30.23,Daniel Espinosa,Jake Gyllenhaal,58000000.0,2017-01-01,69812377.7,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+The Art of War,117,"Action, Adventure, Crime",R,30.21,Christian Duguay,Wesley Snipes,60000000.0,2000-01-01,103896682.5,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+Bad Company,116,"Action, Comedy, Thriller",PG-13,30.16,Joel Schumacher,Anthony Hopkins,70000000.0,2002-01-01,115532015.8,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+Blown Away,121,"Action, Crime, Drama",R,30.16,Stephen Hopkins,Jeff Bridges,28000000.0,1994-01-01,55980082.1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Daybreakers,98,"Action, Horror, Sci-Fi",R,30.1,Michael Spierig,Peter Spierig,20000000.0,2009-01-01,27687017.8,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0
+Dragonfly,104,"Drama, Fantasy, Mystery",PG-13,30.06,Tom Shadyac,Kevin Costner,60000000.0,2002-01-01,99027442.1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1
+Road House,114,"Action, Thriller",R,30.05,Rowdy Herrington,Patrick Swayze,17000000.0,1989-01-01,41032469.0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Point of No Return,109,"Action, Crime, Drama",R,30.04,John Badham,Bridget Fonda,7160000.0,1993-01-01,14676292.8,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Bank Job,111,"Crime, Drama, Thriller",R,30.03,Roger Donaldson,Jason Statham,20000000.0,2008-01-01,27695281.4,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Hollywood Homicide,116,"Action, Comedy, Crime",PG-13,30.01,Ron Shelton,Harrison Ford,75000000.0,2003-01-01,120650522.8,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+Airport '77,114,"Action, Drama, Thriller",PG,30.0,Jerry Jameson,Jack Lemmon,6000000.0,1977-01-01,29979076.9,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Serpico,130,"Biography, Crime, Drama",R,29.8,Sidney Lumet,Al Pacino,3000000.0,1973-01-01,20584225.4,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Wild Things,108,"Crime, Drama, Mystery",R,29.75,John McNaughton,Kevin Bacon,20000000.0,1998-01-01,36175247.5,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+When the Bough Breaks,107,"Drama, Thriller",PG-13,29.7,Jon Cassar,Morris Chestnut,10000000.0,2016-01-01,12337537.4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+Pacific Heights,102,Thriller,R,29.38,John Schlesinger,Melanie Griffith,18000000.0,1990-01-01,41297708.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Bless the Child,107,"Crime, Drama, Horror",R,29.37,Chuck Russell,Kim Basinger,65000000.0,2000-01-01,112554739.3,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0
+Shoot to Kill,110,"Action, Adventure, Crime",R,29.3,Roger Spottiswoode,Sidney Poitier,15000000.0,1988-01-01,37894900.6,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+Priest,87,"Action, Adventure, Fantasy",PG-13,29.14,Scott Stewart,Paul Bettany,60000000.0,2011-01-01,79636368.6,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1
+The Mechanic,93,"Action, Crime, Thriller",R,29.12,Simon West,Jason Statham,40000000.0,2011-01-01,53090912.4,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+The Stepfather,101,"Crime, Thriller",PG-13,29.06,Nelson McCormick,Penn Badgley,20000000.0,2009-01-01,27687017.8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+The Insider,157,"Biography, Drama, Thriller",R,28.97,Michael Mann,Russell Crowe,90000000.0,1999-01-01,160113451.0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+The Watcher,97,"Crime, Drama, Mystery",R,28.93,Joe Charbanic,James Spader,30000000.0,2000-01-01,51948341.2,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+The Dream Team,113,"Comedy, Crime, Thriller",PG-13,28.89,Howard Zieff,Michael Keaton,15000000.0,1989-01-01,36205119.7,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+Kick-Ass 2,103,"Action, Comedy, Crime",R,28.8,Jeff Wadlow,Aaron Taylor-Johnson,28000000.0,2013-01-01,35540594.1,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Point Break,114,"Action, Adventure, Crime",PG-13,28.78,Ericson Core,Edgar Ramírez,105000000.0,2015-01-01,131322895.8,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+Baby Boy,130,"Crime, Drama, Romance",R,28.73,John Singleton,Alexsandra Wright,16000000.0,2001-01-01,26708943.5,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0
+Drop Zone,101,"Action, Adventure, Thriller",R,28.72,John Badham,Wesley Snipes,45000000.0,1994-01-01,89967989.1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+Ready or Not,95,"Action, Comedy, Horror",R,28.71,Matt Bettinelli-Olpin,Tyler Gillett,6000000.0,2019-01-01,6967391.3,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0
+Untraceable,101,"Crime, Mystery, Thriller",R,28.69,Gregory Hoblit,Diane Lane,35000000.0,2008-01-01,48466742.5,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Defiance,137,"Action, Drama, History",R,28.64,Edward Zwick,Daniel Craig,32000000.0,2008-01-01,44312450.3,1,0,0,0,1,0,0,0,1,0,0,0,1,1,0
+Final Analysis,124,"Drama, Thriller",R,28.59,Phil Joanou,Richard Gere,32000000.0,1992-01-01,67729703.1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+The Uninvited,87,"Drama, Fantasy, Horror",PG-13,28.57,Charles Guard,Thomas Guard,10325000.0,2009-01-01,14293422.9,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1
+Swimfan,85,"Drama, Thriller",PG-13,28.56,John Polson,Jesse Bradford,10000000.0,2002-01-01,16504573.7,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+We Own the Night,117,"Action, Crime, Drama",R,28.56,James Gray,Joaquin Phoenix,21000000.0,2007-01-01,30324756.9,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Brothers,105,"Drama, Thriller, War",R,28.5,Jim Sheridan,Jake Gyllenhaal,26000000.0,2009-01-01,35993123.1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Child's Play 2,84,"Horror, Thriller",R,28.5,John Lafia,Alex Vincent,13000000.0,1990-01-01,29826122.4,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Mr. Brooks,120,"Crime, Drama, Thriller",R,28.48,Bruce A. Evans,Kevin Costner,20000000.0,2007-01-01,28880720.9,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Abduction,106,"Action, Mystery, Thriller",PG-13,28.09,John Singleton,Taylor Lautner,35000000.0,2011-01-01,46454548.3,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+Happy Death Day 2U,100,"Comedy, Horror, Mystery",PG-13,28.05,Christopher Landon,Jessica Rothe,9000000.0,2019-01-01,10451087.0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1
+Grosse Pointe Blank,107,"Action, Comedy, Crime",R,28.01,George Armitage,John Cusack,15000000.0,1997-01-01,27557762.4,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+The Hindenburg,125,"Adventure, Drama, History",PG,27.95,Robert Wise,George C. Scott,15000000.0,1975-01-01,84154318.6,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0
+Menace II Society,97,"Crime, Drama, Thriller",R,27.9,Albert Hughes,Allen Hughes,3500000.0,1993-01-01,7174165.5,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Crank,88,"Action, Crime, Thriller",R,27.83,Mark Neveldine,Brian Taylor,12000000.0,2006-01-01,17688108.9,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+The Edge,117,"Action, Adventure, Drama",R,27.78,Lee Tamahori,Anthony Hopkins,30000000.0,1997-01-01,55115524.8,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0
+Sinister 2,97,"Horror, Mystery, Thriller",R,27.74,Ciarán Foy,James Ransone,10000000.0,2015-01-01,12506942.5,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Internal Affairs,115,"Crime, Drama, Thriller",R,27.73,Mike Figgis,Richard Gere,15000000.0,1990-01-01,34414756.7,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Saw VI,90,"Action, Adventure, Horror",R,27.69,Kevin Greutert,Tobin Bell,11000000.0,2009-01-01,15227859.8,1,1,0,0,0,1,0,0,0,0,0,0,1,1,0
+Hannibal Rising,121,"Adventure, Crime, Drama",R,27.67,Peter Webber,Gaspard Ulliel,50000000.0,2007-01-01,72201802.2,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Island of Dr. Moreau,96,"Horror, Sci-Fi, Thriller",PG-13,27.66,John Frankenheimer,Richard Stanley,40000000.0,1996-01-01,75724352.3,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+The Finest Hours,117,"Action, Drama, History",PG-13,27.57,Craig Gillespie,Chris Pine,80000000.0,2016-01-01,98700298.8,1,0,0,0,1,0,0,0,1,0,0,0,1,0,1
+Midsommar,148,"Drama, Horror, Mystery",R,27.33,Ari Aster,Florence Pugh,9000000.0,2019-01-01,10451087.0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0
+No Escape,103,"Action, Thriller",R,27.29,John Erick Dowdle,Lake Bell,16200000.0,2015-01-01,20261246.8,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Nobody,92,"Action, Crime, Drama",R,27.27,Ilya Naishuller,Bob Odenkirk,16000000.0,2021-01-01,17878661.4,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Brooklyn's Finest,132,"Action, Crime, Drama",R,27.15,Antoine Fuqua,Richard Gere,17000000.0,2009-01-01,23533965.1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Big Hit,91,"Action, Comedy, Crime",R,27.05,Kirk Wong,Mark Wahlberg,13000000.0,1998-01-01,23513910.9,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+The Missing,137,"Adventure, Thriller, Western",R,26.9,Ron Howard,Tommy Lee Jones,60000000.0,2003-01-01,96520418.3,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+xXx: State of the Union,101,"Action, Adventure, Crime",PG-13,26.87,Lee Tamahori,Ice Cube,113000000.0,2005-01-01,173201090.7,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+Hell or High Water,102,"Action, Crime, Drama",R,26.86,David Mackenzie,Chris Pine,12000000.0,2016-01-01,14805044.8,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Eye for an Eye,101,"Crime, Drama, Thriller",R,26.79,John Schlesinger,Sally Field,20000000.0,1996-01-01,37862176.2,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Event Horizon,96,"Horror, Sci-Fi, Thriller",R,26.67,Paul W.S. Anderson,Laurence Fishburne,60000000.0,1997-01-01,110231049.7,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+The Host,125,"Action, Adventure, Drama",PG-13,26.63,Andrew Niccol,Saoirse Ronan,40000000.0,2013-01-01,50772277.2,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+Machete,105,"Action, Crime, Thriller",R,26.59,Ethan Maniquis,Robert Rodriguez,10500000.0,2010-01-01,14163784.6,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+The Forest,93,"Horror, Mystery, Thriller",PG-13,26.58,Jason Zada,Natalie Dormer,10000000.0,2016-01-01,12337537.4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+An American Werewolf in Paris,98,"Comedy, Fantasy, Horror",R,26.57,Anthony Waller,Tom Everett Scott,25000000.0,1997-01-01,45929604.0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0
+Basic,98,"Action, Crime, Drama",R,26.54,John McTiernan,John Travolta,50000000.0,2003-01-01,80433681.9,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Born Losers,113,"Action, Drama, Thriller",PG,26.54,Tom Laughlin,Tom Laughlin,360000.0,1967-01-01,3198375.7,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+The Woman in Black 2: Angel of Death,98,"Drama, Horror, Thriller",PG-13,26.5,Tom Harper,Helen McCrory,15000000.0,2014-01-01,18743651.6,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+Run All Night,114,"Action, Crime, Thriller",R,26.46,Jaume Collet-Serra,Liam Neeson,50000000.0,2015-01-01,62534712.3,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Book of Shadows: Blair Witch 2,90,"Adventure, Fantasy, Horror",R,26.44,Joe Berlinger,Jeffrey Donovan,15000000.0,2000-01-01,25974170.6,0,1,0,0,0,1,0,0,0,0,1,0,1,1,0
+Street Kings,109,"Action, Crime, Thriller",R,26.42,David Ayer,Keanu Reeves,20000000.0,2008-01-01,27695281.4,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+One for the Money,91,"Action, Comedy, Crime",PG-13,26.41,Julie Anne Robinson,Katherine Heigl,40000000.0,2012-01-01,51582026.3,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+A Walk Among the Tombstones,114,"Action, Crime, Drama",R,26.31,Scott Frank,Liam Neeson,28000000.0,2014-01-01,34988149.6,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Blood Work,110,"Action, Crime, Drama",R,26.2,Clint Eastwood,Clint Eastwood,50000000.0,2002-01-01,82522868.4,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+A Man Apart,109,"Action, Crime, Drama",R,26.18,F. Gary Gray,Vin Diesel,36000000.0,2003-01-01,57912251.0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Descent,99,"Adventure, Horror, Thriller",R,26.02,Neil Marshall,Shauna Macdonald,4292575.0,2005-01-01,6579457.3,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0
+Searching,102,"Drama, Mystery, Thriller",PG-13,26.02,Aneesh Chaganty,John Cho,880000.0,2018-01-01,1037735.9,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+Shutter,85,"Horror, Mystery, Thriller",PG-13,25.93,Masayuki Ochiai,Joshua Jackson,8000000.0,2008-01-01,11078112.6,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Innerspace,120,"Action, Adventure, Comedy",PG,25.89,Joe Dante,Dennis Quaid,27000000.0,1987-01-01,70971151.1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+Alex Cross,101,"Action, Crime, Mystery",PG-13,25.89,Rob Cohen,Tyler Perry,35000000.0,2012-01-01,45134273.0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,1
+Murder at 1600,107,"Action, Crime, Drama",R,25.83,Dwight H. Little,Wesley Snipes,40000000.0,1997-01-01,73487366.4,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Betrayed,127,"Crime, Drama, Thriller",R,25.82,Costa-Gavras,Debra Winger,19000000.0,1988-01-01,48000207.4,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+The Lazarus Effect,83,"Horror, Mystery, Sci-Fi",PG-13,25.8,David Gelb,Olivia Wilde,3300000.0,2015-01-01,4127291.0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1
+Candyman,99,"Horror, Thriller",R,25.79,Bernard Rose,Virginia Madsen,6000000.0,1992-01-01,12699319.3,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Desperado,104,"Action, Crime, Thriller",R,25.63,Robert Rodriguez,Antonio Banderas,7000000.0,1995-01-01,13613253.5,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Nancy Drew,99,"Comedy, Crime, Family",PG,25.61,Andrew Fleming,Emma Roberts,20000000.0,2007-01-01,28880720.9,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+The Mist,126,"Horror, Sci-Fi, Thriller",R,25.59,Frank Darabont,Thomas Jane,18000000.0,2007-01-01,25992648.8,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+Jumpin' Jack Flash,105,"Comedy, Romance, Thriller",R,25.59,Penny Marshall,Whoopi Goldberg,6000000.0,1986-01-01,16001605.8,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0
+Memento,113,"Mystery, Thriller",R,25.54,Christopher Nolan,Guy Pearce,9000000.0,2000-01-01,15584502.4,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+Serenity,119,"Action, Adventure, Sci-Fi",PG-13,25.51,Joss Whedon,Nathan Fillion,39000000.0,2005-01-01,59777367.6,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+All About the Benjamins,95,"Action, Comedy, Crime",R,25.48,Kevin Bray,Ice Cube,15000000.0,2002-01-01,24756860.5,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Escape from L.A.,101,"Action, Adventure, Sci-Fi",R,25.48,John Carpenter,Kurt Russell,50000000.0,1996-01-01,94655440.4,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0
+The Fourth Kind,98,"Horror, Mystery, Sci-Fi",PG-13,25.46,Olatunde Osunsanmi,Milla Jovovich,10000000.0,2009-01-01,13843508.9,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1
+The International,118,"Action, Crime, Drama",R,25.45,Tom Tykwer,Clive Owen,50000000.0,2009-01-01,69217544.5,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Ex Machina,108,"Drama, Sci-Fi, Thriller",R,25.44,Alex Garland,Alicia Vikander,15000000.0,2014-01-01,18743651.6,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+The Transporter,92,"Action, Crime, Thriller",PG-13,25.3,Louis Leterrier,Corey Yuen,21000000.0,2002-01-01,34659604.7,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Black Widow,102,"Crime, Drama, Thriller",R,25.21,Bob Rafelson,Debra Winger,10500000.0,1987-01-01,27599892.1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Twisted,97,"Crime, Drama, Mystery",R,25.2,Philip Kaufman,Ashley Judd,50000000.0,2004-01-01,78913606.9,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Escape Room: Tournament of Champions,88,"Action, Adventure, Horror",PG-13,25.19,Adam Robitel,Taylor Russell,15000000.0,2021-01-01,16761245.0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1
+Fallen,124,"Action, Crime, Drama",R,25.19,Gregory Hoblit,Denzel Washington,10400000.0,1998-01-01,18811128.7,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Morning After,103,"Crime, Mystery, Romance",R,25.15,Sidney Lumet,Jane Fonda,15000000.0,1986-01-01,40004014.6,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0
+Escape Plan,115,"Action, Thriller",R,25.13,Mikael Håfström,Sylvester Stallone,50000000.0,2013-01-01,63465346.5,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Killer Elite,116,"Action, Crime, Thriller",R,25.12,Gary McKendry,Jason Statham,70000000.0,2011-01-01,92909096.7,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+The Reaping,99,"Horror, Thriller",R,25.12,Stephen Hopkins,Hilary Swank,40000000.0,2007-01-01,57761441.8,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+All the Money in the World,132,"Biography, Crime, Drama",R,25.11,Ridley Scott,Michelle Williams,50000000.0,2017-01-01,60183084.3,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Against All Odds,128,"Action, Adventure, Crime",R,25.1,Taylor Hackford,Rachel Ward,13000000.0,1984-01-01,37289970.6,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+Winchester,99,"Drama, Fantasy, Horror",PG-13,25.09,Michael Spierig,Peter Spierig,3500000.0,2018-01-01,4127358.6,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1
+Midnight in the Garden of Good and Evil,155,"Crime, Drama, Mystery",R,25.08,Clint Eastwood,John Cusack,35000000.0,1997-01-01,64301445.6,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Navy Seals,113,"Action, Adventure, Thriller",R,25.07,Lewis Teague,Charlie Sheen,20000000.0,1990-01-01,45886342.2,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+Grindhouse,191,"Action, Horror, Thriller",R,25.04,Robert Rodriguez,Eli Roth,67000000.0,2007-01-01,96750415.0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0
+The Hills Have Eyes,90,"Horror, Thriller",R,25.0,Wes Craven,Susan Lanier,230000.0,1977-01-01,1149197.9,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Enter the Dragon,102,"Action, Crime, Drama",R,25.0,Robert Clouse,Bruce Lee,850000.0,1973-01-01,5832197.2,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The November Man,108,"Action, Thriller",R,24.98,Roger Donaldson,Pierce Brosnan,15000000.0,2014-01-01,18743651.6,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+The Craft,101,"Drama, Fantasy, Horror",R,24.88,Andrew Fleming,Robin Tunney,15000000.0,1996-01-01,28396632.1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0
+From Russia with Love,115,"Action, Adventure, Thriller",PG,24.8,Terence Young,Sean Connery,2000000.0,1963-01-01,19230000.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Fargo,98,"Crime, Thriller",R,24.61,Joel Coen,Ethan Coen,7000000.0,1996-01-01,13251761.7,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Unleashed,103,"Action, Crime, Drama",R,24.52,Louis Leterrier,Jet Li,45000000.0,2005-01-01,68973885.7,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+15 Minutes,120,"Action, Crime, Drama",R,24.4,John Herzfeld,Robert De Niro,60000000.0,2001-01-01,100158538.0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+In the Heat of the Night,110,"Drama, Mystery, Thriller",Approved,24.38,Norman Jewison,Sidney Poitier,2000000.0,1967-01-01,17768753.8,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+Arlington Road,117,"Action, Crime, Drama",R,24.36,Mark Pellington,Jeff Bridges,31000000.0,1999-01-01,55150188.7,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Dolores Claiborne,132,"Crime, Drama, Mystery",R,24.36,Taylor Hackford,Kathy Bates,5721000.0,1995-01-01,11125917.6,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Class Action,110,"Drama, Thriller",R,24.28,Michael Apted,Gene Hackman,4207000.0,1991-01-01,9135878.7,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+The People Under the Stairs,102,"Comedy, Horror, Mystery",R,24.2,Wes Craven,Brandon Quintin Adams,6000000.0,1991-01-01,13029539.4,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0
+Dead Presidents,119,"Action, Crime, Drama",R,24.2,Albert Hughes,Allen Hughes,10000000.0,1995-01-01,19447505.0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Tinker Tailor Soldier Spy,127,"Drama, Mystery, Thriller",R,24.15,Tomas Alfredson,Gary Oldman,24500000.0,2011-01-01,32518183.8,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+Body Heat,113,"Crime, Drama, Romance",R,24.06,Lawrence Kasdan,William Hurt,9000000.0,1981-01-01,30237517.2,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0
+Virtuosity,106,"Action, Crime, Sci-Fi",R,24.05,Brett Leonard,Denzel Washington,30000000.0,1995-01-01,58342515.0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0
+Don't Be Afraid of the Dark,99,"Fantasy, Horror, Thriller",R,24.04,Troy Nixey,Katie Holmes,25000000.0,2010-01-01,33723296.7,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Perfect Stranger,109,"Crime, Mystery, Thriller",R,23.98,James Foley,Halle Berry,60700000.0,2007-01-01,87652987.9,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+From Paris with Love,92,"Action, Crime, Thriller",R,23.98,Pierre Morel,John Travolta,52000000.0,2010-01-01,70144457.2,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Graduation Day,96,"Horror, Mystery, Thriller",R,23.89,Herb Freed,Christopher George,250000.0,1981-01-01,839931.0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Striking Distance,102,"Action, Crime, Mystery",R,23.8,Rowdy Herrington,Bruce Willis,30000000.0,1993-01-01,61492847.1,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0
+The Wicker Man,102,"Horror, Mystery, Thriller",PG-13,23.64,Neil LaBute,Nicolas Cage,40000000.0,2006-01-01,58960363.1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Hot Fuzz,121,"Action, Comedy, Mystery",R,23.64,Edgar Wright,Simon Pegg,9800000.0,2007-01-01,14151553.2,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0
+The Losers,97,"Action, Adventure, Crime",PG-13,23.58,Sylvain White,Idris Elba,25000000.0,2010-01-01,33723296.7,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+Traitor,114,"Action, Crime, Drama",PG-13,23.53,Jeffrey Nachmanoff,Don Cheadle,22000000.0,2008-01-01,30464809.6,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1
+Ghost Story,110,"Drama, Horror, Thriller",R,23.37,John Irvin,Craig Wasson,13500000.0,1981-01-01,45356275.9,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+Reindeer Games,104,"Action, Adventure, Crime",R,23.36,John Frankenheimer,Ben Affleck,42000000.0,2000-01-01,72727677.7,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+The Usual Suspects,106,"Crime, Drama, Mystery",R,23.34,Bryan Singer,Kevin Spacey,6000000.0,1995-01-01,11668503.0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+The Avengers,89,"Action, Adventure, Sci-Fi",PG-13,23.32,Jeremiah S. Chechik,Ralph Fiennes,60000000.0,1998-01-01,108525742.6,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+The Covenant,97,"Action, Adventure, Fantasy",PG-13,23.29,Renny Harlin,Steven Strait,20000000.0,2006-01-01,29480181.5,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1
+Faster,98,"Action, Crime, Drama",R,23.24,George Tillman Jr.,Dwayne Johnson,24000000.0,2010-01-01,32374364.9,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Match Point,124,"Drama, Romance, Thriller",R,23.09,Woody Allen,Scarlett Johansson,15000000.0,2005-01-01,22991295.2,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+Stay Alive,85,"Fantasy, Horror, Mystery",PG-13,23.09,William Brent Bell,Jon Foster,7000000.0,2006-01-01,10318063.5,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1
+Sanctum,108,"Action, Adventure, Drama",R,23.07,Alister Grierson,Rhys Wakefield,30000000.0,2011-01-01,39818184.3,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0
+Transcendence,119,"Action, Drama, Sci-Fi",PG-13,23.02,Wally Pfister,Johnny Depp,100000000.0,2014-01-01,124957677.1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1
+American Gigolo,117,"Crime, Drama, Mystery",R,23.0,Paul Schrader,Richard Gere,4800000.0,1980-01-01,18033686.4,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+The Russia House,123,"Drama, Romance, Thriller",R,23.0,Fred Schepisi,Sean Connery,21800000.0,1990-01-01,50016113.0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+Guilty as Sin,107,"Crime, Drama, Thriller",R,22.89,Sidney Lumet,Rebecca De Mornay,12000000.0,1993-01-01,24597138.8,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Missing in Action,101,"Action, Adventure, Drama",R,22.81,Joseph Zito,Chuck Norris,2550000.0,1984-01-01,7314571.1,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0
+On Her Majesty's Secret Service,142,"Action, Adventure, Thriller",PG,22.8,Peter R. Hunt,George Lazenby,7000000.0,1969-01-01,57473932.6,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+The Gallows,81,"Horror, Mystery, Thriller",R,22.76,Travis Cluff,Chris Lofing,100000.0,2015-01-01,125069.4,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+The Juror,118,"Crime, Drama, Thriller",R,22.75,Brian Gibson,Demi Moore,44000000.0,1996-01-01,83296787.6,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Thunderheart,119,"Crime, Mystery, Thriller",R,22.66,Michael Apted,Val Kilmer,15000000.0,1992-01-01,31748298.3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Babylon A.D.,90,"Action, Adventure, Sci-Fi",PG-13,22.53,Mathieu Kassovitz,Vin Diesel,70000000.0,2008-01-01,96933484.9,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+The Black Dahlia,121,"Crime, Drama, Mystery",R,22.52,Brian De Palma,Josh Hartnett,50000000.0,2006-01-01,73700453.9,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Lucky Number Slevin,110,"Crime, Drama, Thriller",R,22.49,Paul McGuigan,Josh Hartnett,27000000.0,2006-01-01,39798245.1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+The Warriors,93,"Action, Crime, Thriller",R,22.49,Walter Hill,Michael Beck,4000000.0,1979-01-01,17118360.2,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+War,103,"Action, Crime, Thriller",R,22.49,Philip G. Atwell,Jet Li,25000000.0,2007-01-01,36100901.1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Hitman: Agent 47,96,"Action, Crime, Thriller",R,22.47,Aleksander Bach,Rupert Friend,35000000.0,2015-01-01,43774298.6,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+City by the Sea,108,"Crime, Drama, Mystery",R,22.43,Michael Caton-Jones,Robert De Niro,40000000.0,2002-01-01,66018294.7,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+The First Power,98,"Crime, Horror, Thriller",R,22.42,Robert Resnikoff,Lou Diamond Phillips,10000000.0,1990-01-01,22943171.1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+Red Corner,122,"Crime, Drama, Thriller",R,22.42,Jon Avnet,Richard Gere,48000000.0,1997-01-01,88184839.7,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+The Bye Bye Man,96,"Drama, Fantasy, Horror",PG-13,22.38,Stacy Title,Douglas Smith,7400000.0,2017-01-01,8907096.5,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1
+Stuber,93,"Action, Comedy, Crime",R,22.37,Michael Dowse,Dave Bautista,16000000.0,2019-01-01,18579710.1,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Project Almanac,106,"Drama, Mystery, Sci-Fi",PG-13,22.35,Dean Israelite,Amy Landecker,12000000.0,2015-01-01,15008330.9,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1
+Nowhere to Run,94,"Action, Drama, Romance",R,22.19,Robert Harmon,Jean-Claude Van Damme,15000000.0,1993-01-01,30746423.6,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0
+Lock Up,109,"Action, Crime, Drama",R,22.1,John Flynn,Sylvester Stallone,24000000.0,1989-01-01,57928191.6,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Black and Blue,108,"Action, Thriller",R,22.06,Deon Taylor,Naomie Harris,12000000.0,2019-01-01,13934782.6,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Death Wish,93,"Action, Crime, Drama",R,22.0,Michael Winner,Charles Bronson,3000000.0,1974-01-01,18817339.1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Joy Ride,97,"Action, Mystery, Thriller",R,21.97,John Dahl,Steve Zahn,23000000.0,2001-01-01,38394106.2,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+Friday the 13th: A New Beginning,92,"Horror, Mystery, Thriller",R,21.93,Danny Steinmann,Melanie Kinnaman,2200000.0,1985-01-01,6095272.0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Friday the 13th Part 2,87,"Horror, Mystery, Thriller",R,21.72,Steve Miner,Betsy Palmer,1250000.0,1981-01-01,4199655.2,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Marathon Man,125,"Crime, Drama, Thriller",R,21.71,John Schlesinger,Dustin Hoffman,6500000.0,1976-01-01,34171295.0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+The Player,124,"Comedy, Crime, Drama",R,21.71,Robert Altman,Tim Robbins,8000000.0,1992-01-01,16932425.8,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+The Rookie,120,"Action, Crime, Drama",R,21.63,Clint Eastwood,Clint Eastwood,30000000.0,1990-01-01,68829513.3,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Quest,95,"Action, Adventure, Drama",PG-13,21.6,Jean-Claude Van Damme,Jean-Claude Van Damme,30000000.0,1996-01-01,56793264.2,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+Consenting Adults,99,"Crime, Drama, Mystery",R,21.59,Alan J. Pakula,Kevin Kline,18000000.0,1992-01-01,38097958.0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Snowden,134,"Biography, Crime, Drama",R,21.59,Oliver Stone,Joseph Gordon-Levitt,40000000.0,2016-01-01,49350149.4,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+Psycho,105,"Horror, Mystery, Thriller",R,21.46,Gus Van Sant,Vince Vaughn,60000000.0,1998-01-01,108525742.6,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+The Darkest Hour,89,"Action, Adventure, Horror",PG-13,21.43,Chris Gorak,Emile Hirsch,30000000.0,2011-01-01,39818184.3,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1
+When a Stranger Calls,97,"Horror, Mystery, Thriller",R,21.41,Fred Walton,Carol Kane,1500000.0,1979-01-01,6419385.1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Cold Creek Manor,118,"Drama, Mystery, Thriller",R,21.38,Mike Figgis,Dennis Quaid,8190000.0,2003-01-01,13175037.1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+The Place Beyond the Pines,140,"Crime, Drama, Thriller",R,21.38,Derek Cianfrance,Ryan Gosling,15000000.0,2012-01-01,19343259.9,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+The Fog,89,"Horror, Thriller",R,21.38,John Carpenter,Adrienne Barbeau,1000000.0,1980-01-01,3757018.0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Skyline,92,"Action, Sci-Fi, Thriller",PG-13,21.37,Colin Strause,Greg Strause,10000000.0,2010-01-01,13489318.7,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Raising Cain,92,"Crime, Drama, Horror",R,21.37,Brian De Palma,John Lithgow,12000000.0,1992-01-01,25398638.7,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0
+To Die For,106,"Comedy, Crime, Drama",R,21.28,Gus Van Sant,Nicole Kidman,20000000.0,1995-01-01,38895010.0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+Dream House,92,"Drama, Mystery, Thriller",PG-13,21.28,Jim Sheridan,Daniel Craig,50000000.0,2011-01-01,66363640.5,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+Mechanic: Resurrection,98,"Action, Adventure, Crime",R,21.22,Dennis Gansel,Jason Statham,40000000.0,2016-01-01,49350149.4,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+Cujo,93,"Horror, Thriller",R,21.2,Lewis Teague,Dee Wallace,5000000.0,1983-01-01,14943558.3,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Christine,110,"Horror, Thriller",R,21.2,John Carpenter,Keith Gordon,9700000.0,1983-01-01,28990503.1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+"As Above, So Below",93,"Horror, Mystery, Thriller",R,21.2,John Erick Dowdle,Perdita Weeks,5000000.0,2014-01-01,6247883.9,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+The Next Three Days,133,"Action, Crime, Drama",PG-13,21.15,Paul Haggis,Russell Crowe,30000000.0,2010-01-01,40467956.1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1
+Stir of Echoes,99,"Horror, Mystery, Thriller",R,21.13,David Koepp,Kevin Bacon,12000000.0,1999-01-01,21348460.1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+47 Meters Down: Uncaged,90,"Adventure, Drama, Horror",PG-13,21.11,Johannes Roberts,Sophie Nélisse,12000000.0,2019-01-01,13934782.6,0,1,0,0,1,1,0,0,0,0,0,0,1,0,1
+Tales from the Crypt: Demon Knight,92,"Action, Fantasy, Horror",R,21.09,Ernest R. Dickerson,Billy Zane,13000000.0,1995-01-01,25281756.5,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0
+F/X2,108,"Action, Thriller",PG-13,21.08,Richard Franklin,Bryan Brown,16400000.0,1991-01-01,35614074.3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Flight of the Phoenix,113,"Action, Adventure, Drama",PG-13,21.01,John Moore,Dennis Quaid,45000000.0,2004-01-01,71022246.2,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+The X Files: I Want to Believe,104,"Crime, Drama, Horror",PG-13,20.98,Chris Carter,David Duchovny,30000000.0,2008-01-01,41542922.1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1
+The Man with the Golden Gun,125,"Action, Adventure, Thriller",PG,20.97,Guy Hamilton,Roger Moore,7000000.0,1974-01-01,43907124.5,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Proud Mary,89,"Action, Crime, Drama",R,20.87,Babak Najafi,Taraji P. Henson,14000000.0,2018-01-01,16509434.5,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Hills Have Eyes 2,89,"Horror, Thriller",R,20.8,Martin Weisz,Daniella Alonso,15000000.0,2007-01-01,21660540.7,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Sleepless,95,"Action, Crime, Thriller",R,20.78,Baran bo Odar,Jamie Foxx,30000000.0,2017-01-01,36109850.6,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Blair Witch,89,"Horror, Mystery, Thriller",R,20.78,Adam Wingard,James Allen McCune,5000000.0,2016-01-01,6168768.7,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+The Dead Zone,103,"Drama, Horror, Sci-Fi",R,20.77,David Cronenberg,Christopher Walken,10000000.0,1983-01-01,29887116.6,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0
+Jaws: The Revenge,89,"Adventure, Horror, Thriller",PG-13,20.76,Joseph Sargent,Lorraine Gary,23000000.0,1987-01-01,60456906.5,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1
+The Happytime Murders,91,"Action, Comedy, Crime",R,20.71,Brian Henson,Melissa McCarthy,40000000.0,2018-01-01,47169812.8,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Land of the Dead,93,"Horror, Sci-Fi, Thriller",R,20.7,George A. Romero,John Leguizamo,15000000.0,2005-01-01,22991295.2,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+Mad Money,104,"Comedy, Crime, Thriller",PG-13,20.67,Callie Khouri,Diane Keaton,22000000.0,2008-01-01,30464809.6,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+F/X,109,"Action, Thriller",R,20.6,Robert Mandel,Bryan Brown,10000000.0,1986-01-01,26669343.1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+The Invisible,102,"Crime, Drama, Fantasy",PG-13,20.57,David S. Goyer,Justin Chatwin,30000000.0,2007-01-01,43321081.3,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1
+Chain Reaction,107,"Action, Drama, Sci-Fi",PG-13,20.55,Andrew Davis,Keanu Reeves,50000000.0,1996-01-01,94655440.4,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1
+SuperFly,116,"Action, Crime, Thriller",R,20.55,Director X.,Trevor Jackson,16000000.0,2018-01-01,18867925.1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+The Circle,110,"Drama, Sci-Fi, Thriller",PG-13,20.5,James Ponsoldt,Emma Watson,18000000.0,2017-01-01,21665910.3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+Gamer,95,"Action, Sci-Fi, Thriller",R,20.49,Mark Neveldine,Brian Taylor,50000000.0,2009-01-01,69217544.5,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+The In-Laws,98,"Action, Comedy, Thriller",PG-13,20.44,Andrew Fleming,Albert Brooks,40000000.0,2003-01-01,64346945.5,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+F.I.S.T.,145,"Crime, Drama, Thriller",PG,20.39,Norman Jewison,Sylvester Stallone,11000000.0,1978-01-01,51444096.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Valentine,96,"Horror, Mystery, Thriller",R,20.38,Jamie Blanks,Denise Richards,29000000.0,2001-01-01,48409960.0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+The Three Musketeers,110,"Action, Adventure, Fantasy",PG-13,20.38,Paul W.S. Anderson,Logan Lerman,75000000.0,2011-01-01,99545460.7,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1
+Sudden Death,111,"Action, Crime, Thriller",R,20.35,Peter Hyams,Jean-Claude Van Damme,35000000.0,1995-01-01,68066267.5,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Code of Silence,101,"Action, Crime, Drama",R,20.35,Andrew Davis,Chuck Norris,7000000.0,1985-01-01,19394047.4,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Gone Baby Gone,114,"Crime, Drama, Mystery",R,20.3,Ben Affleck,Morgan Freeman,19000000.0,2007-01-01,27436684.8,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Brick Mansions,90,"Action, Crime, Thriller",PG-13,20.29,Camille Delamarre,Paul Walker,28000000.0,2014-01-01,34988149.6,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+The Cowboy Way,102,"Action, Comedy, Crime",PG-13,20.28,Gregg Champion,Woody Harrelson,35000000.0,1994-01-01,69975102.6,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+Premium Rush,91,"Action, Crime, Thriller",PG-13,20.28,David Koepp,Joseph Gordon-Levitt,35000000.0,2012-01-01,45134273.0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Pulse,90,"Horror, Sci-Fi, Thriller",PG-13,20.26,Jim Sonzero,Kristen Bell,20500000.0,2006-01-01,30217186.1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+Action Jackson,96,"Action, Comedy, Crime",R,20.26,Craig R. Baxley,Carl Weathers,7000000.0,1988-01-01,17684286.9,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+Vampires,108,"Action, Horror, Thriller",R,20.24,John Carpenter,James Woods,20000000.0,1998-01-01,36175247.5,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0
+City Hall,111,"Crime, Drama, Mystery",R,20.2,Harold Becker,Al Pacino,40000000.0,1996-01-01,75724352.3,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Secret in Their Eyes,111,"Crime, Drama, Mystery",PG-13,20.18,Billy Ray,Chiwetel Ejiofor,19500000.0,2015-01-01,24388537.8,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Homefront,100,"Action, Crime, Thriller",R,20.16,Gary Fleder,Jason Statham,22000000.0,2013-01-01,27924752.5,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Juice,95,"Action, Crime, Drama",R,20.15,Ernest R. Dickerson,Omar Epps,5000000.0,1992-01-01,10582766.1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Glimmer Man,91,"Action, Comedy, Crime",R,20.1,John Gray,Steven Seagal,45000000.0,1996-01-01,85189896.4,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+An Innocent Man,113,"Action, Crime, Drama",R,20.05,Peter Yates,Tom Selleck,5700000.0,1989-01-01,13757945.5,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Eyes of Laura Mars,104,"Mystery, Thriller",R,20.0,Irvin Kershner,Faye Dunaway,7000000.0,1978-01-01,32737152.0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+Assault on Precinct 13,109,"Action, Crime, Drama",R,19.98,Jean-François Richet,Ethan Hawke,30000000.0,2005-01-01,45982590.5,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Breathless,100,"Action, Drama, Romance",R,19.91,Jim McBride,Richard Gere,7500000.0,1983-01-01,22415337.4,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0
+Hard Rain,97,"Action, Crime, Drama",R,19.82,Mikael Salomon,Morgan Freeman,70000000.0,1998-01-01,126613366.3,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Cruising,102,"Crime, Drama, Mystery",R,19.8,William Friedkin,Al Pacino,11000000.0,1980-01-01,41327197.9,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+The Spirit,103,"Action, Crime, Fantasy",PG-13,19.78,Frank Miller,Gabriel Macht,60000000.0,2008-01-01,83085844.2,1,0,0,1,0,0,0,0,0,0,1,0,1,0,1
+Yu-Gi-Oh!: The Movie - Pyramid of Light,90,"Animation, Action, Adventure",PG,19.76,Christopher Collet,Eric Stuart,20000000.0,2004-01-01,31565442.8,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Young Sherlock Holmes,109,"Adventure, Fantasy, Mystery",PG-13,19.74,Barry Levinson,Nicholas Rowe,18000000.0,1985-01-01,49870407.6,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1
+The Principal,109,"Action, Crime, Drama",R,19.73,Christopher Cain,Jim Belushi,11000000.0,1987-01-01,28914172.7,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Color of Night,121,"Drama, Mystery, Romance",R,19.72,Richard Rush,Bruce Willis,40000000.0,1994-01-01,79971545.8,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0
+The Pledge,124,"Crime, Drama, Mystery",R,19.72,Sean Penn,Jack Nicholson,35000000.0,2001-01-01,58425813.8,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Broken City,109,"Action, Crime, Drama",R,19.7,Allen Hughes,Mark Wahlberg,35000000.0,2013-01-01,44425742.6,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Life of David Gale,130,"Crime, Drama, Thriller",R,19.59,Alan Parker,Kevin Spacey,38000000.0,2003-01-01,61129598.2,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Léon: The Professional,110,"Action, Crime, Drama",R,19.5,Luc Besson,Jean Reno,18529000.0,1994-01-01,37044819.3,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Friday the 13th Part VI: Jason Lives,86,"Horror, Thriller",R,19.47,Tom McLoughlin,Thom Mathews,3000000.0,1986-01-01,8000802.9,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Vacancy,85,"Horror, Thriller",R,19.36,Nimród Antal,Kate Beckinsale,19000000.0,2007-01-01,27436684.8,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Runner Runner,88,"Crime, Thriller",R,19.32,Brad Furman,Ben Affleck,30000000.0,2013-01-01,38079207.9,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Summer of Sam,142,"Crime, Drama, Romance",R,19.28,Spike Lee,John Leguizamo,22000000.0,1999-01-01,39138843.6,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0
+Deathtrap,116,"Comedy, Crime, Mystery",PG,19.28,Sidney Lumet,Michael Caine,10000000.0,1982-01-01,30996394.5,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+Friday the 13th Part VII: The New Blood,88,"Horror, Thriller",R,19.17,John Carl Buechler,Terry Kiser,2800000.0,1988-01-01,7073714.8,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Species II,93,"Action, Horror, Sci-Fi",R,19.17,Peter Medak,Natasha Henstridge,25000000.0,1998-01-01,45219059.4,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0
+Johnny Mnemonic,96,"Action, Drama, Sci-Fi",R,19.08,Robert Longo,Keanu Reeves,26000000.0,1995-01-01,50563513.0,1,0,1,0,1,0,0,0,0,0,0,0,1,1,0
+The Impossible,114,"Adventure, Drama, History",PG-13,19.02,J.A. Bayona,Naomi Watts,45000000.0,2012-01-01,58029779.6,0,1,0,0,1,0,0,0,1,0,0,0,1,0,1
+Mortal Thoughts,103,"Mystery, Thriller",R,19.02,Alan Rudolph,Demi Moore,8000000.0,1991-01-01,17372719.2,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+The Boys from Brazil,125,"Drama, Mystery, Sci-Fi",R,19.0,Franklin J. Schaffner,Gregory Peck,12000000.0,1978-01-01,56120832.0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0
+The Octagon,103,"Action, Drama, Romance",R,18.97,Eric Karson,Chuck Norris,4000000.0,1980-01-01,15028072.0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0
+The Replacement Killers,87,"Action, Crime, Thriller",R,18.97,Antoine Fuqua,Chow Yun-Fat,30000000.0,1998-01-01,54262871.3,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Haywire,93,"Action, Drama, Thriller",R,18.94,Steven Soderbergh,Gina Carano,23000000.0,2011-01-01,30527274.6,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+Rambo: Last Blood,89,"Action, Crime, Thriller",R,18.87,Adrian Grunberg,Sylvester Stallone,50000000.0,2019-01-01,58061594.2,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Shark Night,90,"Horror, Thriller",PG-13,18.87,David R. Ellis,Sara Paxton,25000000.0,2011-01-01,33181820.2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Above the Law,99,"Action, Crime, Drama",R,18.87,Andrew Davis,Steven Seagal,7500000.0,1988-01-01,18947450.3,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Marine,92,"Action, Comedy, Drama",PG-13,18.84,John Bonito,John Cena,20000000.0,2006-01-01,29480181.5,1,0,0,0,1,0,0,1,0,0,0,0,1,0,1
+Suspect,121,"Crime, Drama, Thriller",R,18.78,Peter Yates,Cher,14500000.0,1987-01-01,38114136.7,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+The Believers,114,"Crime, Drama, Horror",R,18.75,John Schlesinger,Martin Sheen,13000000.0,1987-01-01,34171295.0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0
+Eye in the Sky,102,"Action, Drama, Thriller",R,18.7,Gavin Hood,Helen Mirren,13000000.0,2015-01-01,16259025.2,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+Year of the Dragon,134,"Action, Crime, Drama",R,18.7,Michael Cimino,Mickey Rourke,24000000.0,1985-01-01,66493876.8,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+The Ninth Gate,133,"Mystery, Thriller",R,18.66,Roman Polanski,Johnny Depp,38000000.0,1999-01-01,67603457.1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+The Quick and the Dead,108,"Action, Romance, Thriller",R,18.64,Sam Raimi,Sharon Stone,32000000.0,1995-01-01,62232016.0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+Man on a Ledge,102,"Action, Crime, Thriller",PG-13,18.62,Asger Leth,Sam Worthington,42000000.0,2012-01-01,54161127.7,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+The Fan,116,"Action, Drama, Sport",R,18.57,Tony Scott,Robert De Niro,55000000.0,1996-01-01,104120984.5,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+Project X,108,"Comedy, Drama, Sci-Fi",PG,18.53,Jonathan Kaplan,Matthew Broderick,18000000.0,1987-01-01,47314100.7,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+You're Next,95,"Horror, Thriller",R,18.47,Adam Wingard,Sharni Vinson,1000000.0,2011-01-01,1327272.8,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Into the Blue,110,"Action, Adventure, Crime",PG-13,18.47,John Stockwell,Paul Walker,50000000.0,2005-01-01,76637650.8,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+Prophecy,102,"Horror, Sci-Fi, Thriller",PG,18.39,John Frankenheimer,Talia Shire,12000000.0,1979-01-01,51355080.5,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Sugar Hill,123,"Crime, Drama, Thriller",R,18.27,Leon Ichaso,Wesley Snipes,10000000.0,1993-01-01,20497615.7,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Next,96,"Action, Sci-Fi, Thriller",PG-13,18.21,Lee Tamahori,Nicolas Cage,70000000.0,2007-01-01,101082523.1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+The Last Castle,131,"Action, Drama, Thriller",R,18.21,Rod Lurie,Robert Redford,72000000.0,2001-01-01,120190245.6,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+Dead Men Don't Wear Plaid,88,"Comedy, Crime, Mystery",PG,18.2,Carl Reiner,Steve Martin,9000000.0,1982-01-01,27896755.0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+Chernobyl Diaries,86,"Horror, Mystery, Thriller",R,18.12,Bradley Parker,Jesse McCartney,1000000.0,2012-01-01,1289550.7,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+New Nightmare,112,"Fantasy, Horror, Mystery",R,18.09,Wes Craven,Heather Langenkamp,8000000.0,1994-01-01,15994309.2,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0
+Postal,100,"Action, Comedy, Crime",R,18.01,Uwe Boll,Zack Ward,15000000.0,2007-01-01,21660540.7,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+The Glass House,106,"Crime, Drama, Mystery",PG-13,18.0,Daniel Sackheim,Diane Lane,30000000.0,2001-01-01,50079269.0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+Red Planet,106,"Action, Sci-Fi, Thriller",PG-13,18.0,Antony Hoffman,Val Kilmer,80000000.0,2000-01-01,138528910.0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+The Crow: City of Angels,84,"Action, Crime, Fantasy",R,17.88,Tim Pope,Vincent Perez,13000000.0,1996-01-01,24610414.5,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0
+The Contender,126,"Drama, Thriller",R,17.87,Rod Lurie,Joan Allen,20000000.0,2000-01-01,34632227.5,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Punch-Drunk Love,95,"Comedy, Drama, Romance",R,17.84,Paul Thomas Anderson,Adam Sandler,25000000.0,2002-01-01,41261434.2,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0
+Bad Times at the El Royale,141,"Crime, Drama, Mystery",R,17.84,Drew Goddard,Jeff Bridges,32000000.0,2018-01-01,37735850.3,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+The Delta Force,125,"Action, Adventure, Drama",R,17.77,Menahem Golan,Chuck Norris,12000000.0,1986-01-01,32003211.7,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0
+Halloween 4: The Return of Michael Myers,88,"Horror, Thriller",R,17.77,Dwight H. Little,Donald Pleasence,5000000.0,1988-01-01,12631633.5,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+The Rage: Carrie 2,104,"Drama, Horror, Sci-Fi",R,17.76,Katt Shea,Robert Mandel,21000000.0,1999-01-01,37359805.2,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0
+Apollo 18,86,"Horror, Mystery, Sci-Fi",PG-13,17.69,Gonzalo López-Gallego,Warren Christie,5000000.0,2011-01-01,6636364.0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1
+The Big Easy,102,"Comedy, Crime, Drama",R,17.69,Jim McBride,Dennis Quaid,8500000.0,1986-01-01,22668941.6,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0
+Frantic,120,"Crime, Drama, Mystery",R,17.64,Roman Polanski,Harrison Ford,20000000.0,1988-01-01,50526534.1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+Parker,118,"Action, Crime, Thriller",R,17.62,Taylor Hackford,Jason Statham,35000000.0,2013-01-01,44425742.6,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Operation Finale,122,"Biography, Drama, History",PG-13,17.61,Chris Weitz,Oscar Isaac,24000000.0,2018-01-01,28301887.7,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1
+The Last King of Scotland,123,"Biography, Drama, History",R,17.61,Kevin Macdonald,James McAvoy,6000000.0,2006-01-01,8844054.5,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0
+Last Man Standing,101,"Action, Crime, Drama",R,17.6,Walter Hill,Bruce Willis,67000000.0,1996-01-01,126838290.2,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Wait Until Dark,108,Thriller,Not Rated,17.55,Terence Young,Audrey Hepburn,3000000.0,1967-01-01,26653130.7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Invasion U.S.A.,107,"Action, Thriller",R,17.54,Joseph Zito,Chuck Norris,10000000.0,1985-01-01,27705782.0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Silent Hill: Revelation,95,"Horror, Mystery, Thriller",R,17.53,M.J. Bassett,Adelaide Clemens,20000000.0,2012-01-01,25791013.2,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+Notes on a Scandal,92,"Crime, Drama, Romance",R,17.51,Richard Eyre,Cate Blanchett,15000000.0,2006-01-01,22110136.2,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0
+Empire,90,"Crime, Drama, Thriller",R,17.5,Franc. Reyes,John Leguizamo,4000000.0,2002-01-01,6601829.5,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Angel,94,"Action, Crime, Thriller",R,17.49,Robert Vincent O'Neil,Cliff Gorman,3000000.0,1983-01-01,8966135.0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Klute,114,"Crime, Mystery, Thriller",R,17.44,Alan J. Pakula,Jane Fonda,2500000.0,1971-01-01,18360301.5,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+Dark Skies,97,"Horror, Sci-Fi, Thriller",PG-13,17.41,Scott Stewart,Keri Russell,3500000.0,2013-01-01,4442574.3,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+Disturbing Behavior,84,"Horror, Mystery, Sci-Fi",R,17.41,David Nutter,James Marsden,15000000.0,1998-01-01,27131435.6,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0
+Chappaquiddick,106,"Biography, Drama, History",PG-13,17.4,John Curran,Jason Clarke,13000000.0,2017-01-01,15647601.9,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1
+Addicted,106,"Drama, Romance, Thriller",R,17.38,Bille Woodruff,Sharon Leal,5000000.0,2014-01-01,6247883.9,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+Outland,109,"Action, Crime, Sci-Fi",R,17.37,Peter Hyams,Sean Connery,16000000.0,1981-01-01,53755586.2,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0
+Eight Legged Freaks,99,"Action, Adventure, Comedy",PG-13,17.32,Ellory Elkayem,David Arquette,30000000.0,2002-01-01,49513721.1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1
+To Live and Die in L.A.,116,"Action, Crime, Drama",R,17.31,William Friedkin,William Petersen,8000000.0,1985-01-01,22164625.6,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+Extreme Measures,118,"Crime, Drama, Mystery",R,17.31,Michael Apted,Hugh Grant,38000000.0,1996-01-01,71938134.7,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0
+A Most Wanted Man,122,"Crime, Drama, Thriller",R,17.24,Anton Corbijn,Philip Seymour Hoffman,15000000.0,2014-01-01,18743651.6,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Angel Heart,113,"Horror, Mystery, Thriller",X,17.19,Alan Parker,Mickey Rourke,17000000.0,1987-01-01,44685539.6,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Safe,94,"Action, Crime, Thriller",R,17.14,Boaz Yakin,Jason Statham,30000000.0,2012-01-01,38686519.8,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Freejack,110,"Action, Crime, Sci-Fi",R,17.13,Geoff Murphy,Emilio Estevez,30000000.0,1992-01-01,63496596.7,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0
+Eastern Promises,100,"Crime, Drama, Thriller",R,17.11,David Cronenberg,Naomi Watts,30700000.0,2007-01-01,44331906.6,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
