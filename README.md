@@ -1,10 +1,12 @@
-# LR_Thrillers
-Linear Regression for Thriller Movies
+# Learn Fundamentals of Linear Regression + Machine Learning
+- Viability Analysis
+- Instantiate Model, Train + Test, Score
+- Statsmodels and Sklearn
 
 # Client / Background
 This was my first experience creating a linear regression machine learning model as part of the Metis curriculum. This project also required webscraping which was another first for me. 
 
-The mock business situation that I created for my project: There's a newly created production studio that plans to make movies in the thriller genre. They'd like to know if there are characteristics of thrillers that are predictors of US box office gross.
+The mock business situation that I created for my project: A newly emerged production studio plans to make movies in the thriller genre and would like to know which characteristics of thrillers are predictors of US Box Office Gross.
 
 # Business Questions
 - Does a set of features do a good job in predicting US Gross for thrillers?
@@ -26,12 +28,10 @@ The mock business situation that I created for my project: There's a newly creat
 - Reg Plots, R^2
 - Addressed colinearity issues
 - Feature Engineering
-#### Determine Baseline Model 
-- Tested log transform vs no transform
-- Determined if regularization would improve the model
+#### Instantiate Model
+- Train + Test
+- Get Predictions
 - Identified features with highest coefficient
-#### Train - Validate - Test
-- Utilized cross validation
 
 # Findings
 Check out the presentation [here](https://github.com/Jenni-Hawk/LR_Thrillers/blob/main/Presentation_Linear_Regression.pdf)
