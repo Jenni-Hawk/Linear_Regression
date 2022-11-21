@@ -34,7 +34,7 @@ The mock business situation that I created for my project: A newly emerged produ
 - Identified features with highest coefficient
 
 # Findings
-Check out the presentation [here](https://github.com/Jenni-Hawk/LR_Thrillers/blob/main/Presentation_Linear_Regression.pdf)
+Check out the presentation [here](https://github.com/Jenni-Hawk/Linear_Regression/blob/main/Linear_Regression_Preso.pdf)
 
 # Tech Tools Used
 - Request Module, BeautifulSoup Library
